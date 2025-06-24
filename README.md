@@ -136,6 +136,12 @@ Here are suggested Books/Chapters to read.  Each is annotated with some phrases/
   * Manna from heaven
   * Forty years in the wilderness
 
+* **1 Samuel 9 - 24** (14K words): Uniting the tribes under a king.  Saul falling into disfavor, battles between Saul and David
+  * Saul
+  * David
+  * David and Goliath
+
+
 
 * Parts of the stories of Saul, David, and Solomon, but what parts?
 * The story of Elijah, or parts thereof
