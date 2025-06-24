@@ -7,13 +7,16 @@ Teddy, you and I have talked about this a few times, and I said that I would try
 
 I also ordered a book that you might want to read, which attempts to gather the most significant Biblical stories into a single place.  I'd like to read it myself, and then you're welcome to borrow it.  *[Biblical Literacy: The Essential Bible Stories Everyone Needs to Know][bl]*.
 
-The list is at the bottom, but first, an overview of the Bible.
+Note that I am not trying to give the Cliff Notes version of the Bible.  While I hope this gives you some feel for the scope of the Bible, I am much more focused on those parts that will likely come up in everyday interactions.
+
+My list of suggestions is below, but first, an overview of the Bible.
 
 
 
 
 The Bible
 ---------
+
 
 ### Bible Structure ###
 
@@ -31,21 +34,21 @@ The bible contains over 750,000 words, longer than I novel I've ever read (and I
 > him Segub. And Segub begat Jair, who had three and twenty cities in the land of
 > Gilead.
 
-So there are parts difficult to read.  And to me, most of these are devoid of interesting content.
+So there are parts difficult to read.  And to me, most of these are devoid of interesting content.  If you want a very short synopsis of any of the books, I found a very [useful page][66b] that gives simple, short overviews of each of the books.  It might be worth reading.
+
+Do note that my own list below is not a small amount of reading.  The first book I recommend is Genesis, which at more than 38,000 words, is the length of a long novella.  But altogether, they are a far cry from 750,000!
+
+
 
 ### Translations ###
 
-There are likely hundreds of translations in English alone.
+There are many dozens, perhaps hundreds, of translations in English alone.
 
 By far the best known is The King James version (aka the Authorized Version).  The language is old and dated, but for many English-speaking Christians, this is the definitive version.  It uses *thee*/*thou*/*thy*, and to a modern ear this might sound like more formal language; don't fall for that.  You've both studied French.  These have fallen out of usage in modern English, but when this translation was made, English still had the equivalent of *tutoiement* (when to use *tu*) and *vouvoiement* (when to use *vous*).  *Thou* and the like were the less formal, more personal words.
 
-When I was still a theist, I was a fan of The Revised Standard version, which was a fairly scholarly version.  The New International Version was meant to be as easy to read as possible.  A more recent version is the World English Bible, which was designed to be a readable, modern version, not subject to copyright problems, and so easy to post on the Web.
+When I was still a theist, I was a fan of The Revised Standard version, which was a fairly scholarly version.  The New International Version was meant to be as easy to read as possible; it used to be the version of choice among evangelical Christians.  A more recent version is the World English Bible, which was designed to be a readable, modern version, not subject to copyright problems, and so easy to post on the Web.
 
-You know I've fiddled around with [TiddlyWiki][tw].  One of the projects I've worked on is to have simple online versions of some Bible translations.  It's still a work in progress, but there are four English and two Spanish translations [currently available][twb].  These include the [World English][web] and [King James][kjb] versions.  Feel free to read content on there as you like; they download easily to any device with a web browser.  But there are also printed versions availble in your households.
-
-
-I found a very [useful page][66b] that gives simple, short overviews of each of the books.  It might be worth reading.
-
+You know I've fiddled around with [TiddlyWiki][tw].  One of the projects I've worked on is to have simple online versions of some Bible translations.  It's still a work in progress, but there are four English and two Spanish translations [currently available][twb].  These include the [World English][web] and [King James][kjb] versions.  I would recommend that you choose one of these two translations.  King James is best known, and to many readers, the most poetic.  World English is simply easier to read.  Feel free to read content on my site as you like; they download easily to any device with a web browser.  But there are also printed versions availble in your households.
 
 
 ### The Old Testament ###
@@ -55,12 +58,12 @@ The first part of the Bible is Jewish scripture that was written between 1300 BC
 
 #### The Law ####
 
-The first five books, Genesis, Exodus, Leviticus, Numbers, and Deutoronomy, cover the creation story, the initial generations of humanity, the foundation of God's chosen nation of Israel by the descendents of Abraham, their years of exile and slavery in Egypt, their dramatic escape, and their forty years of wandering the wilderness.  It also includes the laws to govern the people, both the general Ten Commandments and many more specific rules.
+The first five books, Genesis, Exodus, Leviticus, Numbers, and Deutoronomy, cover the creation story, the initial generations of humanity, the foundation of God's chosen nation of Israel by the descendents of Abraham, their years of exile and slavery in Egypt, their dramatic escape, and their forty years of wandering the wilderness.  It also includes the laws to govern the people, both the general Ten Commandments and many more specific rules.  God grants the descendents of Abraham a land of their own, Israel.  These five books constitute one of the main components of Jewish scripture, called the *Torah*.
 
 
 #### History ####
 
-These books, from Joshue through Esther discuss the the subsequent history of the people of Israel, living first under the rule of the judges for the tribes and eventually consolodating under the King Saul.  When he loses favor with God, David becomes King, and his son Solomon after him.  David is a central figure in the Old Testament; he's credited with many of the Psalms and future kings are desribed by their lineage from David, including the New Testament's Jesus.  Others list their *bona fides* as being a "child of David".  Eventually the territory splits into separate states of Israel and Judah, both being the people of God, descendents of Abraham.
+These books, from Joshua through Esthe, discuss the the subsequent history of the people of Israel, living first under the rule of the tribes' judges and eventually consolidating under the King Saul.  When he loses favor with God, David becomes King, and his son Solomon after him.  David is a central figure in the Old Testament; he's credited with many of the Psalms and future kings are desribed by their lineage from David, including the New Testament's Jesus.  Others list their *bona fides* as being a "child of David".  Eventually the territory splits into separate states of Israel and Judah, both containing the people of God, descendents of Abraham.
 
 
 #### Poetry and Wisdom ####
@@ -70,7 +73,7 @@ This slightly eclectic group includes Psalms, Proverbs, and Job, already describ
 
 #### The Prophets ####
 
-These books describe a series of preacher/prophets who try to bring the people of Israel and Judah back to following God, with varying degress of success.  The people are often swayed to worship the gods of the neighboring (or conquering) communities, and the prophets have to work hard to convince them to come back.  Sometimes the prophets themselves are not particularly willing.  The books are often divided into Major and Minor Prophets, in part by the lengths of their texts.  The Majors are Isaiah, Jeremiah, Ezekial, and Daniel, and if Lamentations is not included the poetry section, it is included here, attributed to Jeremiah.  The other twelve are the Minors, including the short book of Jonah, which tells of a prophet fleeing from God's exhortation to go to a city and preach, who ends up overboard and in the belly of a whale until he repents and is spit back out, and ends up converting the people of that city.
+These books describe a series of preachers/prophets who try to bring the people of Israel and Judah back to following God, with varying degress of success.  The people are often swayed to worship the gods of the neighboring (or conquering) communities, and the prophets have to work hard to convince them to come back.  Sometimes the prophets themselves are not particularly willing.  The books are often divided into Major and Minor Prophets, in part by the lengths of their texts.  The Majors are Isaiah, Jeremiah, Ezekial, and Daniel, and if Lamentations is not included the poetry section, it is included here, attributed to Jeremiah.  The other twelve are the Minors, including the short book of Jonah, which tells of a prophet fleeing from God's exhortation to go to a city and preach, who ends up overboard and in the belly of a whale until he repents and is spit back out, and ends up converting the people of that city.
 
 
 ### The Apocrypha ###
@@ -81,7 +84,7 @@ There are a collection of Bible books that in some versions are placed between t
 
 ### The New Testament ###
 
-Christianity started as an offshoot of Judaism.  The second half of the Bible is a description of the origins of Christianity as well of some of its theology.  Most of these books were written between 50 and 150 years after the death of Jesus.
+Christianity started as an offshoot of Judaism.  The second half of the Bible is the story of the origins of Christianity as well of some of its theology.  Most of these books were written between 50 and 150 years after the death of Jesus.
 
 
 #### The Gospels ####
@@ -111,8 +114,29 @@ The sole book here is Revelations.  This is a long prophecy about the end-time b
 The Reading List
 ----------------
 
-* **Genesis**
-* **Exodus**
+Here are suggested Books/Chapters to read.  Each is annotated with some phrases/names that you could well run across in other contexts.
+
+* **Genesis** (38K words):  This is the origin story... of everything.
+  * The Garden of Eden
+  * Adam and Eve
+  * The Great Flood
+  * Noah's Ark
+  * The Tower of Babel
+  * Sodom and Gomorrah
+  * Lot
+  * Abraham
+  * Abraham and Isaac
+  * Joseph and the Pharaoh
+
+* **Exodus** (33K words): The Israelites become slaves in Egypt.  Moses leads them to the gates of the Promised Land
+  * Moses
+  * Plagues of Egypt
+  * Parting of the Red Sea
+  * The Ten Commandments
+  * Manna from heaven
+  * Forty years in the wilderness
+
+
 * Parts of the stories of Saul, David, and Solomon, but what parts?
 * The story of Elijah, or parts thereof
 * **Judges 13-16** (Samson)
