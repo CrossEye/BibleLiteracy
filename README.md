@@ -116,6 +116,8 @@ The Reading List
 
 Here are suggested Books/Chapters to read.  Each is annotated with some phrases/names that you could well run across in other contexts.
 
+### Old Testament ###
+
 * **Genesis** (38K words):  This is the origin story... of everything.
   * The Garden of Eden
   * Adam and Eve
@@ -183,10 +185,33 @@ Here are suggested Books/Chapters to read.  Each is annotated with some phrases/
   * **Psalm 137**: I include this one *because* of its contradictions.  There are all sorts of passages in the Old Testament.  This is a microcosm of the whole thing.  The first four verses are among the most beautiful, haunting, poetic lines in the entire Bible.  The next three verses are *meh*.  But the last two verses are cruel, xeonophobic calls for infanticide.  Quite the variety for one short poem.
 
 
-* Some portion of Ecclesiastes
-* **Matthew** or **Luke** (I have a soft spot for the more raw **Mark**, myself, but the others are probably better intros.  And definitely not **John**.)
+* **Ecclesiastes** (6K words): Feel free to skim, but do read Chapter 1 and Chapter 3:1-10.  This is to my mind the most poetic book in the bible, more so than Psalms, Song of Solomon, or Lamentations.
+  * Nothing new under the sun
+  * More lyrics you'll recognize, as long as you include Pete Seeger's addition, as [performed by The Byrds][ttt] 
+
+
+### New Testament ###
+
+* **Matthew** (24K words): Of the four gospels, I have a soft spot for the more raw **Mark**, myself, but this one and **Luke** are better intros.  I chose this one over Luke, simply becasue we will also discuss the book of Acts, and that is mostly a continuation of Luke.  So we'll see his style elsewhere.  **John** is much more theological, and interesting mostly to believers.  Matthew, Mark, and Luke overlap a great deal, and most scholars believe that Matthew and Luke were partially based on Mark.  These books tell the story of Jesus, the son of a carpenter from Nazareth, who became an itinerant rabbi.  He gathered together a number of followers, most prominently the Twelve Apostles.  He wandered the Jewish lands, healing the sick and performing other miracles, preaching a view that placed love above the law.  To most Christians, he was the prophecied Messiah, God's literal presence on Earth.  Jesus taught often in morality tales known as parables.  A number of these will be familiar.  Jesus is tried for heresy and rebellion and executed.  But on the third day, according to these gospels, he rose again and visited with his disciples.
+  * Christmas (*sans* Santa)
+  * John the Baptist
+  * Sermon on the Mount
+  * The Lord's Prayer
+  
+
+
 * **Acts**
-* 6 - 8 Epistles, but which ones?
+
+
+#### Epistles ####
+
+The remainder of the New Testament, except for the last book, **Revelations**, consists of letters to existing Christian communities.  They are attributed to various of Jesus's disciples and later converts.  Paul, who we read about in Acts is responsible for many of them (traditionally thirteen, scholars say seven to ten.)  These letters are the oldest known Christian writing, dating between 50 and 100 AD.  Christian theology is based on the teachings of Jesus, but it is worked out in much more detail in some of these letters.  I sometimes say that Jesus was a Jew and the first real "Christian" was Paul.  Where Jesus taught that doing the right thing was only the first step and you also had to be right in your heart, your faith, Paul's message is much more that faith is all that's needed.  Other letters disagree, notably James, and it's amidst such tensions that Christianity grew in its first two or three generations.
+
+* **Romans**
+* **1 Corinthians**
+* **Hebrews**
+* **1 John**
+* **James**
 
 
   [66b]: https://www.gotquestions.org/66-books-of-the-Bible.html
@@ -194,4 +219,5 @@ Here are suggested Books/Chapters to read.  Each is annotated with some phrases/
   [kjb]: https://crosseye.github.io/TW5-Bibles/KingJames/
   [tw]: https://tiddlywiki.com
   [twb]: https://crosseye.github.io/TW5-Bibles/
+  [ttt]: https://www.youtube.com/watch?v=xVOJla2vYx8
   [web]: https://crosseye.github.io/TW5-Bibles/WorldEnglish/
