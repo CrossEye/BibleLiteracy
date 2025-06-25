@@ -128,6 +128,7 @@ Here are suggested Books/Chapters to read.  Each is annotated with some phrases/
   * Abraham and Isaac
   * Joseph and the Pharaoh
 
+
 * **Exodus** (33K words): The Israelites become slaves in Egypt.  Moses leads them to the gates of the Promised Land
   * Moses
   * Plagues of Egypt
@@ -136,17 +137,52 @@ Here are suggested Books/Chapters to read.  Each is annotated with some phrases/
   * Manna from heaven
   * Forty years in the wilderness
 
+
+* **Judges 13-16** (3K words): Samson
+  * Samson and the lion
+  * Samson and Delilah
+
+
 * **1 Samuel 9 - 24** (14K words): Uniting the tribes under a king.  Saul falling into disfavor, battles between Saul and David
   * Saul
   * David
   * David and Goliath
 
 
+* **2 Samuel 11 - 12** (2K words): David, the most famous king of the Hebrews
+  * David and Bathsheba.  You may not recognize the name, but you have heard the Leonard Cohen song, Hallelujah, at least in the [Rufus Wainwright version][rwv] used in Shrek.  These lyrics refer to the story here:
+    > ```
+    > Your faith was strong but you needed proof
+    > You saw her bathing on the roof
+    > Her beauty and the moonlight overthrew you
+    > ```
 
-* Parts of the stories of Saul, David, and Solomon, but what parts?
-* The story of Elijah, or parts thereof
-* **Judges 13-16** (Samson)
-* 10 - 15 Psalms, but which ones?
+
+* **1 Kings 1 - 9** (10k words): Solomon, the building of the temple
+  * Solomon
+  * Splitting the baby
+  * Building of the temple
+
+
+* **2 Kings 1 - 2** (1.5K words): Elijah and Elisha, passing the torch, typical important prohets
+  * Elijah, chariot of fire
+  * Elisha
+
+
+* **Jonah** (1.3K words): Jonah, typical(ish) minor propet
+  * Jonah and the whale
+
+
+* **Psalms** (total: 4k words): It's probably worth reading more than the seven listed here, but a scattershot approach is probably fine; skip around and read a few others.  Too many at once does get to feel very repetitive, though.  I don't have a list of favorites, and only the first one clearly *had* to be included.  For the others, I just found a few best-of lists online and included those which appeared in a majority of those lists' top-ten.  Except the last one, which I added for the reason listed with it.
+  * **Psalm 23**: This is by *far* the best-known Psalm.  You may well recognize the opening lines
+  * **Psalm 1**
+  * **Psalm 37**
+  * **Psalm 46**
+  * **Psalm 119**: This is the only Psalm with a significant internal structure; it feels almost like epic poetry.  It's also 50% longer than all the others on this list combined
+  * **Psalm 139**
+  * **Psalm 137**: I include this one *because* of its contradictions.  There are all sorts of passages in the Old Testament.  This is a microcosm of the whole thing.  The first four verses are among the most beautiful, haunting, poetic lines in the entire Bible.  The next three verses are *meh*.  But the last two verses are cruel, xeonophobic calls for infanticide.  Quite the variety for one short poem.
+
+
 * Some portion of Ecclesiastes
 * **Matthew** or **Luke** (I have a soft spot for the more raw **Mark**, myself, but the others are probably better intros.  And definitely not **John**.)
 * **Acts**
