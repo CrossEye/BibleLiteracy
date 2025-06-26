@@ -63,7 +63,11 @@ Chapters vary a bit more, but they act much like chapters in a novel; convenient
 places to break.  Chapters and verses are later additions to the text, not in
 the original sources.  Occassionally there are strange breaks where a complete
 thought is split across verses or two bits of unrelated content are combined
-into one.  But mostly they are helpful.
+into one.  But mostly they are helpful.  A reference such as "1 John 4:7-8"
+refers to the book "1 John", its chapter 4, and the verses within that chapter
+numbered 7 and 8.  (A number of titles have multiple parts; these indices always
+precede the shared name; 1 John, 2 John, and 3 John are separate books, not to
+be confused with a book in a separate section, just called "John".)
 
 The bible contains over 750,000 words, longer than I novel I've ever read (and
 I've read War and Peace!)  But for comparison, the five books published in A
@@ -129,8 +133,10 @@ there are also printed versions availble in your households.
 
 The first part of the Bible is Jewish scripture that was written between 1300
 BCE and 50 BCE.  This is commonly called the Old Testament, a name which,
-although ubiquitous may sound insulting to Jewish ears.  This consists of a few
-unofficial sections:
+although ubiquitous may sound insulting to Jewish ears.  While these days, you
+will often hear "The Hebrew Bible" instead, there are those who might look at
+you funny if you call it that.  By either name, this is the larger half of the
+Bible.  It consists of a few unofficial sections:
 
 
 #### The Law ####
@@ -147,15 +153,15 @@ one of the main components of Jewish scripture, called the *Torah*.
 
 #### History ####
 
-These books, from Joshua through Esthe, discuss the the subsequent history of
-the people of Israel, living first under the rule of the tribes' judges and
-eventually consolidating under the King Saul.  When he loses favor with God,
-David becomes King, and his son Solomon after him.  David is a central figure in
-the Old Testament; he's credited with many of the Psalms and future kings are
-desribed by their lineage from David, including the New Testament's Jesus.
-Others list their *bona fides* as being a "child of David".  Eventually the
-territory splits into separate states of Israel and Judah, both containing the
-people of God, descendents of Abraham.
+These books, from Joshua through Esther, discuss the the subsequent history of
+the people of Israel (aka The Hebres), living first under the rule of the
+tribes' judges and eventually consolidating under the King Saul.  When he loses
+favor with God, David becomes King, then his son Solomon after him.  David is a
+central figure in the Old Testament; he's credited with many of the Psalms and
+future kings are desribed by their lineage from David, including the New
+Testament's Jesus. Others list their *bona fides* as being a "child of David".
+Eventually the territory splits into separate states of Israel and Judah, both
+containing the people of God, descendents of Abraham.
 
 
 #### Poetry and Wisdom ####
@@ -172,15 +178,17 @@ as it sounds, is sometimes included in this list.
 These books describe a series of preachers/prophets who try to bring the people
 of Israel and Judah back to following God, with varying degress of success.  The
 people are often swayed to worship the gods of the neighboring (or conquering)
-communities, and the prophets have to work hard to convince them to come back.
-Sometimes the prophets themselves are not particularly willing.  The books are
-often divided into Major and Minor Prophets, in part by the lengths of their
-texts.  The Majors are Isaiah, Jeremiah, Ezekial, and Daniel, and if
-Lamentations is not included the poetry section, it is included here, attributed
-to Jeremiah.  The other twelve are the Minors, including the short book of
-Jonah, which tells of a prophet fleeing from God's exhortation to go to a city
-and preach, who ends up overboard and in the belly of a whale until he repents
-and is spit back out, and ends up converting the people of that city.
+communities, and the prophets have to work hard to convince them return to God
+(who is sometimes called by the name Yaweh or Jehova, and other times called
+Lord, Lord God, or other variants). Sometimes the prophets themselves are not
+particularly willing.  The books are often divided into Major and Minor
+Prophets, in part by the lengths of their texts.  The Majors are Isaiah,
+Jeremiah, Ezekial, and Daniel, and if Lamentations is not included the poetry
+section, it is included here, attributed to Jeremiah.  The other twelve are the
+Minors, including the short book of Jonah, which tells of a prophet fleeing from
+God's exhortation to go to a city and preach, who ends up overboard and in the
+belly of a whale until he repents and is spit back out, and ends up preaching to
+and converting the people of that city.
 
 
 ### The Apocrypha ###
@@ -207,16 +215,16 @@ The first four books of the New Testament are called the Gospels ("good news").
 They tell the story of the ministry of Jesus, a rabbi who wandered around
 teaching, healing, performing miracles, and preaching an unorthodox theology.
 Much of his teaching was in the form of morality tales called parables.  His
-theology riled up the more orthodox Jews and they in turn riled up the Roman
-overlords.  Together they tried Jesus for heresy/rebellion, and executed him.
-According to these gospels, he rose from the dead on the third day and appeared
-to many of his disciples.  These four books are not sequential; they are
-different views on the same events.  Mark is the most raw, with significant
-narrative issues and a focus on secret knowledge.  Matthew is a more polished
-version of the same approach, with an emphasis on Jesus as the Jewish Messiah.
-Luke is more day-to-day, and focuses more on Jesus as a traditional Rabbi, and
-as the savior of all people, not just the Jews.  John is much more theological,
-and focuses on Jesus as being part of God.
+theology riled up the more orthodox Jews and they in turn riled up their Roman
+overlords.  Together, they put Jesus on trial for heresy/rebellion, convicted,
+and executed him. According to these gospels, he rose from the dead on the third
+day and appeared to many of his disciples.  These four books are not sequential;
+they are different views on the same events.  Mark is the most raw, with
+significant narrative issues and a focus on secret knowledge.  Matthew is a more
+polished version of the same approach, with an emphasis on Jesus as the Jewish
+Messiah. Luke is more day-to-day, and focuses more on Jesus as a traditional
+Rabbi, and as the savior of all people, not just the Jews.  John is much more
+theological, and focuses on Jesus as being part of God.
 
 
 #### History ####
@@ -225,19 +233,18 @@ The Acts of the Apostles is the story of the first generation of Jesus's
 followers after his death.  Some were among his twelve disciples; others
 converted after he was gone.  They wandered around preaching and also performing
 miracles.  They converted various people, but were also persecuted and often
-martyred for their faith.  An important story is the conversion of one of their
-persecutors, a Roman named Saul of Tarsus, later known as Paul, to Christianity.
+martyred for their faith.  An important story is the conversion to Christianity
+of one of their persecutors, a Roman named Saul of Tarsus, later known as Paul.
 
 
 #### Epistles ####
 
 The Epistles are letters written from various early Christian figures,
-especially the important people from Acts, to various Christian communities that
-had been founded by the apostles.  They offer encouragement, theology, and
-practical advice.  They attempt to settle disputes.  Many of these letters are
-written by Paul, and the theology he espouses becomes an important part of
-Christian thought from then on.  These books make up the majority of the New
-Testament.
+especially the important people from Acts, to Christian communities that had
+been founded by the apostles.  They offer encouragement, theology, and practical
+advice.  They attempt to settle disputes.  Many of these letters are written by
+Paul, and the theology he espouses becomes an important part of Christian
+thought from then on.  These books make up the majority of the New Testament.
 
 
 #### Prophecy ####
@@ -252,8 +259,8 @@ the signs the will precede it.
 The Reading List
 ----------------
 
-Here are suggested Books/Chapters to read.  Each is annotated with some
-phrases/names that you could well run across in other contexts.
+Here are suggested Books/Chapters to read.  These are annotated with some
+words or phrases that you might run across in other contexts.
 
 ### Old Testament ###
 
@@ -271,7 +278,7 @@ phrases/names that you could well run across in other contexts.
 
 
 * **Exodus** (33,000 words): The Israelites become slaves in Egypt.  Moses leads
-  them to the gates of the Promised Land.
+  them to freedom and to the edge of the Promised Land.
   * Moses
   * Plagues of Egypt
   * Parting of the Red Sea
@@ -280,7 +287,7 @@ phrases/names that you could well run across in other contexts.
   * Forty years in the wilderness
 
 
-* **Judges 13-16** (3,000 words): Samson
+* **Judges 13 - 16** (3,000 words): Samson
   * Samson and the lion
   * Samson and Delilah
 
@@ -293,14 +300,18 @@ phrases/names that you could well run across in other contexts.
 
 
 * **2 Samuel 11 - 12** (2,000 words): David, the most famous king of the Hebrews
+  does an extremely dirty deed.
   * David and Bathsheba.  You may not recognize the name, but you have heard the
     Leonard Cohen song, Hallelujah, at least in the [Rufus Wainwright
-    version][rwv] used in Shrek.  These lyrics refer to the story here:
+    version][rwv] used in the Shrek soundtrack or the [John Cale version][jcv]
+    from the actual movie.  These lyrics refer to the story here:
     > ```
     > Your faith was strong but you needed proof
     > You saw her bathing on the roof
     > Her beauty and the moonlight overthrew you
     > ```
+    The opening lines also refer to King David, and elsewhere are references to the 
+    story of Samson
 
 
 * **1 Kings 1 - 9** (10,000 words): Solomon, the building of the temple
@@ -413,7 +424,7 @@ visited with his disciples before ascending into heaven.
 * **Luke 10** (900 words)
   * The Good Samaritan
 
-* **Luke 15** (725 words)
+* **Luke 15** (700 words)
   * The Prodigal Son
 
 * **Acts of the Apostles** (24,000 words)  Honestly, this book is the only part
@@ -486,7 +497,7 @@ out to be useful.
 
 A secondary goal was to give you some sense of the style, scope, and contents of
 the Bible, while including little of the tedium.  A part of me wants to fiddle
-with this as long as possible.  There's always things that might be worth
+with this as long as possible.  There are always things that might be worth
 changing.  I'm second-guessing myself on excluding Proverbs and Song of Solomon.
 I think maybe I included too much of the Saul and David stories.  And maybe I
 should get Daniel and the lions in there...  It will never be perfect, and the
@@ -508,6 +519,7 @@ So, enjoy!
 
   [66b]: https://www.gotquestions.org/66-books-of-the-Bible.html
   [bl]: https://isbnsearch.org/isbn/9780061718670
+  [jcv]: https://www.youtube.com/watch?v=-gi3J8nPKPE
   [kjb]: https://crosseye.github.io/TW5-Bibles/KingJames/
   [rwv]: https://www.youtube.com/watch?v=xR0DKOGco_o
   [tw]: https://tiddlywiki.com
