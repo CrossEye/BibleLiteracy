@@ -198,7 +198,7 @@ bother with them here.
 
 Christianity started as an offshoot of Judaism.  The second half of the Bible is
 the story of the origins of Christianity as well of some of its theology.  Most
-of these books were written between 50 and 150 years after the death of Jesus.
+of these books were written between 20 and 120 years after the death of Jesus.
 
 
 #### The Gospels ####
@@ -349,7 +349,8 @@ phrases/names that you could well run across in other contexts.
   Chapter 3:1-10.  This is to my mind the most poetic book in the bible, more so
   than Psalms, Song of Solomon, or Lamentations.
   * Nothing new under the sun
-  * More lyrics you'll recognize, as long as you include Pete Seeger's addition, as [performed by The Byrds][ttt] 
+  * More lyrics you'll recognize, as long as you include Pete Seeger's "Turn,
+    turn turn" addition, as [performed by The Byrds][ttt] 
 
 
 ### New Testament ###
@@ -508,6 +509,7 @@ So, enjoy!
   [66b]: https://www.gotquestions.org/66-books-of-the-Bible.html
   [bl]: https://isbnsearch.org/isbn/9780061718670
   [kjb]: https://crosseye.github.io/TW5-Bibles/KingJames/
+  [rwv]: https://www.youtube.com/watch?v=xR0DKOGco_o
   [tw]: https://tiddlywiki.com
   [twb]: https://crosseye.github.io/TW5-Bibles/
   [ttt]: https://www.youtube.com/watch?v=xVOJla2vYx8
