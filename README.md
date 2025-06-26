@@ -109,8 +109,6 @@ The sole book here is Revelations.  This is a long prophecy about the end-time b
 
 
 
-
-
 The Reading List
 ----------------
 
@@ -118,7 +116,7 @@ Here are suggested Books/Chapters to read.  Each is annotated with some phrases/
 
 ### Old Testament ###
 
-* **Genesis** (38K words):  This is the origin story... of everything.
+* **Genesis** (38,000 words):  This is the origin story... of everything.
   * The Garden of Eden
   * Adam and Eve
   * The Great Flood
@@ -131,7 +129,7 @@ Here are suggested Books/Chapters to read.  Each is annotated with some phrases/
   * Joseph and the Pharaoh
 
 
-* **Exodus** (33K words): The Israelites become slaves in Egypt.  Moses leads them to the gates of the Promised Land
+* **Exodus** (33,000 words): The Israelites become slaves in Egypt.  Moses leads them to the gates of the Promised Land
   * Moses
   * Plagues of Egypt
   * Parting of the Red Sea
@@ -140,18 +138,18 @@ Here are suggested Books/Chapters to read.  Each is annotated with some phrases/
   * Forty years in the wilderness
 
 
-* **Judges 13-16** (3K words): Samson
+* **Judges 13-16** (3,000 words): Samson
   * Samson and the lion
   * Samson and Delilah
 
 
-* **1 Samuel 9 - 24** (14K words): Uniting the tribes under a king.  Saul falling into disfavor, battles between Saul and David
+* **1 Samuel 9 - 24** (14,000 words): Uniting the tribes under a king.  Saul falling into disfavor, battles between Saul and David
   * Saul
   * David
   * David and Goliath
 
 
-* **2 Samuel 11 - 12** (2K words): David, the most famous king of the Hebrews
+* **2 Samuel 11 - 12** (2,000 words): David, the most famous king of the Hebrews
   * David and Bathsheba.  You may not recognize the name, but you have heard the Leonard Cohen song, Hallelujah, at least in the [Rufus Wainwright version][rwv] used in Shrek.  These lyrics refer to the story here:
     > ```
     > Your faith was strong but you needed proof
@@ -160,58 +158,124 @@ Here are suggested Books/Chapters to read.  Each is annotated with some phrases/
     > ```
 
 
-* **1 Kings 1 - 9** (10k words): Solomon, the building of the temple
+* **1 Kings 1 - 9** (10,000 words): Solomon, the building of the temple
   * Solomon
   * Splitting the baby
   * Building of the temple
 
 
-* **2 Kings 1 - 2** (1.5K words): Elijah and Elisha, passing the torch, typical important prohets
+* **2 Kings 1 - 2** (1,500 words): Elijah and Elisha, passing the torch, typical important prohets
   * Elijah, chariot of fire
   * Elisha
 
 
-* **Jonah** (1.3K words): Jonah, typical(ish) minor propet
+* **Jonah** (1,300 words): Jonah, typical(ish) minor propet
   * Jonah and the whale
 
 
-* **Psalms** (total: 4k words): It's probably worth reading more than the seven listed here, but a scattershot approach is probably fine; skip around and read a few others.  Too many at once does get to feel very repetitive, though.  I don't have a list of favorites, and only the first one clearly *had* to be included.  For the others, I just found a few best-of lists online and included those which appeared in a majority of those lists' top-ten.  Except the last one, which I added for the reason listed with it.
-  * **Psalm 23**: This is by *far* the best-known Psalm.  You may well recognize the opening lines
+* **Psalms** (total of 4,000 words in these selections): It's probably worth reading more than the seven listed here, but a scattershot approach would be fine; skip around and read a few others.  Too many at once does get to feel very repetitive, though.  I don't have a list of personal favorites, and only the first one clearly *had* to be included.  For the others, I just found a few best-of lists online and included those which appeared in a majority of those lists' top ten, except the last one, which I added for the reason listed with it.
+  * **Psalm 23**: This is by *far* the best-known Psalm.  You may well recognize
+    the opening lines, or even the whole thing.  The concept of the "good shepherd" 
+    appears many places in the Bible, but this is an important one.
   * **Psalm 1**
   * **Psalm 37**
   * **Psalm 46**
-  * **Psalm 119**: This is the only Psalm with a significant internal structure; it feels almost like epic poetry.  It's also 50% longer than all the others on this list combined
+  * **Psalm 119**: This is the only Psalm with a significant internal structure;
+    it feels almost like epic poetry.  It's also 50% longer than all the others
+    on this list combined.
   * **Psalm 139**
   * **Psalm 137**: I include this one *because* of its contradictions.  There are all sorts of passages in the Old Testament.  This is a microcosm of the whole thing.  The first four verses are among the most beautiful, haunting, poetic lines in the entire Bible.  The next three verses are *meh*.  But the last two verses are cruel, xeonophobic calls for infanticide.  Quite the variety for one short poem.
 
 
-* **Ecclesiastes** (6K words): Feel free to skim, but do read Chapter 1 and Chapter 3:1-10.  This is to my mind the most poetic book in the bible, more so than Psalms, Song of Solomon, or Lamentations.
+* **Ecclesiastes** (6,000 words): Feel free to skim, but do read Chapter 1 and Chapter 3:1-10.  This is to my mind the most poetic book in the bible, more so than Psalms, Song of Solomon, or Lamentations.
   * Nothing new under the sun
   * More lyrics you'll recognize, as long as you include Pete Seeger's addition, as [performed by The Byrds][ttt] 
 
 
 ### New Testament ###
 
-* **Matthew** (24K words): Of the four gospels, I have a soft spot for the more raw **Mark**, myself, but this one and **Luke** are better intros.  I chose this one over Luke, simply becasue we will also discuss the book of Acts, and that is mostly a continuation of Luke.  So we'll see his style elsewhere.  **John** is much more theological, and interesting mostly to believers.  Matthew, Mark, and Luke overlap a great deal, and most scholars believe that Matthew and Luke were partially based on Mark.  These books tell the story of Jesus, the son of a carpenter from Nazareth, who became an itinerant rabbi.  He gathered together a number of followers, most prominently the Twelve Apostles.  He wandered the Jewish lands, healing the sick and performing other miracles, preaching a view that placed love above the law.  To most Christians, he was the prophecied Messiah, God's literal presence on Earth.  Jesus taught often in morality tales known as parables.  A number of these will be familiar.  Jesus is tried for heresy and rebellion and executed.  But on the third day, according to these gospels, he rose again and visited with his disciples.
+#### Gospels ####
+Of the four gospels, I have a soft spot for the more raw **Mark**, myself, but **Matthew** and **Luke** are better intros.  I chose Matthew over Luke, simply becasue we will also discuss the book of Acts.  That is mostly a continuation of Luke; so we'll see his style elsewhere.  But two chapters from Luke are also listed below because of well-known references not covered in Matthew.  **John** is much more theological, and interesting mostly to believers.  Matthew, Mark, and Luke overlap a great deal, and most scholars believe that Matthew and Luke were partially based on Mark.  Matthew is most focused on Jesus as a Jew, and the fulfillment of Jewish prophecies.  Luke is a bit more journalistic, more globally focused; it reads a bit like I imagine a celebrity biography might read.  
+
+Each of these books tells the story of Jesus, the son of a carpenter from Nazareth, who became an itinerant rabbi.  He gathered together a number of followers, most prominently the Twelve Apostles.  He wandered the Jewish lands, healing the sick and performing other miracles, preaching a view that placed love above the law.  To most Christians, he was the prophecied Messiah, God's literal presence on Earth.  Jesus taught often in morality tales known as parables.  A number of these will be familiar.  Jesus is tried for heresy and rebellion and executed.  But according to these gospels he rose again and visited with his disciples before ascending into heaven.
+
+* **Matthew** (24,000 words): There is much here, but the philosophy of Jesus may best be described by Matthew 22:35-40: 
+
+    > Then one of them, which was a lawyer, asked him a question, tempting him,
+    > and saying, Master, which is the great commandment in the law?  Jesus said
+    > unto him, Thou shalt love the Lord thy God with all thy heart, and with
+    > all thy soul, and with all thy mind.  This is the first and great
+    > commandment.  And the second is like unto it, Thou shalt love thy neighbour
+    > as thyself.  On these two commandments hang all the law and the prophets.
+
   * Christmas (*sans* Santa)
   * John the Baptist
+  * 40 days in the desert
+  * Temptations of Christ
   * Sermon on the Mount
   * The Lord's Prayer
-  
+  * Miraculous healings
+  * Calming the storm
+  * Casting out demons
+  * Raising the dead
+  * Twelve Disciples
+  * Pharisees
+  * Parables
+  * Multiplying loaves and fishes
+  * "Suffer little children"
+  * Rich men and camels
+  * The first shall be last and the last shall be first
+  * Woe unto you, lawyers and Pharisees
+  * The Last Supper
+  * Judas, betrayal
+  * Crucifixion
+  * Empty Tomb and resurrection
 
 
-* **Acts**
+* **Luke 10** (900 words)
+  * The Good Samaritan
+
+* **Luke 15** (725 words)
+  * The Prodigal Son
+
+* **Acts of the Apostles** (24,000 words)  Honestly, this book is the only part of this list that might be better in a [Spark Notes version][sna]; it does get tedious.  But it's also important for understanding Christianity.  This is the story of the spread of Christianity from a small Jewish sect in a tiny Israeli community to a widespread network across a fair swath of Mediterranean coast and beyond, becoming less Jewish along the way.  Jesus's disciples and other new followers are able to perform similar miracles to his, and their following grows.  They are also often persecuted and sometimes killed.  The conversion of Saul of Tarsus on the road to Damascus turns him into a zealous missionary (now named Paul), and he becomes a major contributor the religion's spread.
+  * The Road to Damascus: This is a phrase you may run across.  It's associated with sudden revelation and drastic turn-abouts.  Even if you only skim Acts or read the spark notes, it's probably worth reading this story (Chapter 9) in its entirety.
 
 
 #### Epistles ####
 
-The remainder of the New Testament, except for the last book, **Revelations**, consists of letters to existing Christian communities.  They are attributed to various of Jesus's disciples and later converts.  Paul, who we read about in Acts is responsible for many of them (traditionally thirteen, scholars say seven to ten.)  These letters are the oldest known Christian writing, dating between 50 and 100 AD.  Christian theology is based on the teachings of Jesus, but it is worked out in much more detail in some of these letters.  I sometimes say that Jesus was a Jew and the first real "Christian" was Paul.  Where Jesus taught that doing the right thing was only the first step and you also had to be right in your heart, your faith, Paul's message is much more that faith is all that's needed.  Other letters disagree, notably James, and it's amidst such tensions that Christianity grew in its first two or three generations.
+The remainder of the New Testament, except for the last book, **Revelations**, consists of letters to existing Christian communities.  They are attributed to various of Jesus's disciples and later converts.  Paul, who we read about in Acts is responsible for many of them (traditionally thirteen, scholars say seven to ten.)  Read them if you want to understand a bit more about Christian ideas, but feel free to skip them otherwise.  The point of this document is mostly cultural references, and there are not many in these selections that you need to know for that.  The two passages that I think might be more familiar are noted.
 
-* **Romans**
-* **1 Corinthians**
-* **Hebrews**
-* **1 John**
-* **James**
+These letters are the oldest known Christian writing, dating between 50 and 100 AD.  Christian theology is based on the teachings of Jesus, but it is worked out in much more detail in some of these letters.  We might say that Jesus was a Jew and the first real "Christian" was Paul.  Where Jesus taught that doing the right thing was only the first step and you also had to be right in your heart and in your faith, Paul's message is chiefly that faith is all that's needed.  Other letters disagree, notably James, and it's amidst such tensions that Christianity grew in its first two or three generations.
+
+* **Romans** (9,500 words): Righteousness comes only from God.  The importance of faith.  Salvation.
+
+* **1 Corinthians** (9,400 words): Instructions on worship, sin, sexuality, righteousness.
+  * Chapter 13 is short and worth a read.  It will probably be quoted at half the weddings you'll attend in your life.  If you're reading the King James translation, substitute in "love" wherever you read "charity".
+
+* **Hebrews** (6,900 words): "Jesus is the bestest of the best, so cool!"
+
+* **James** (2,300 words): Temptation, sin, and wisdom.  Faith without works is dead.  This seems in clear contrast to Paul's ideas, as seen in Romans and 1 Corinthians.
+
+* **1 John** (2,500 words): Obedience, love, eternal life
+  * 1 John 4:7-8 reads
+    > Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God. He that loveth not knoweth not God; for God is love.
+    
+    and this is a classic Christian idea, and a very popular quote.
+
+
+Summary
+-------
+
+I think I've done a reasonable job of my main goal: selecting passages which give you insight into Western cultural references that are widely used, but possibly mysterious to the two of you.  Having been raised without these associations is no major social handicap, but understanding them may well turn out to be useful.
+
+A secondary goal was to give you some sense of the style, scope, and contents of the Bible, while including little of the tedium.  A part of me wants to fiddle with this as long as possible.  There's always things that might be worth changing.  I'm second-guessing myself on excluding Proverbs and Lamentations.  I think maybe I included too much of the Saul and David stories.  And maybe I should get Daniel and the lions in there...  It will never be perfect, and the appropriate amount for Teddy may be too much for Kayleigh.  Or the varied literary forms which might amuse Kayleigh could just be an annoyance to Teddy.  I'm hoping not.  But we can talk about it whenever, if you find you want a different reading list.
+
+
+You'll notice that these passages still total 193,000 words, or 163,000 if you skip the Epistles.  While those are large numbers, they're about the same length as Goblet of Fire and Half-Blood Prince, respectively.  This is an investment of time, but not an overwhelming one.  We also generally avoid the most tedious material -- of which the Bible contains plenty.
+
+So, enjoy!
+
 
 
   [66b]: https://www.gotquestions.org/66-books-of-the-Bible.html
