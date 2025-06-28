@@ -542,7 +542,7 @@ So, enjoy!
 
 <style>
 body {color: #333;}
-body, .markdown-body blockquote {background-color: #e8e8e8;}
+body, .markdown-body blockquote {background-color: #f8f8f8;}
 .markdown-body {max-width: 45em;}
 </style>
 
