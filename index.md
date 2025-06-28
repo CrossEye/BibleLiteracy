@@ -522,6 +522,9 @@ material -- of which the Bible contains plenty.
 
 So, enjoy!
 
+<br/><br/><hr/><br/>
+
+<small style="display: block;text-align:center">Created by [Scott Sauyet][ss], version 1.0.  Public domain</small>
 
 
   [66b]: https://www.gotquestions.org/66-books-of-the-Bible.html
@@ -530,6 +533,7 @@ So, enjoy!
   [kjb]: https://crosseye.github.io/TW5-Bibles/KingJames/
   [rwv]: https://www.youtube.com/watch?v=xR0DKOGco_o
   [sna]: https://crosseye.github.io/BibleLiteracy/
+  [ss]:  mailto:scott@sauyet.com
   [tw]:  https://tiddlywiki.com
   [twb]: https://crosseye.github.io/TW5-Bibles/
   [ttt]: https://www.youtube.com/watch?v=xVOJla2vYx8
