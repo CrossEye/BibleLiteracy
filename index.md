@@ -272,8 +272,8 @@ words or phrases that you might run across in other contexts.
 
 * **Genesis** (38,000 words):  This is the origin story... of everything.
   * The Garden of Eden
-  * Adam and Eve
   * Cain and Abel
+  * Adam and Eve
   * The Great Flood
   * Noah's Ark
   * The Tower of Babel
@@ -404,4 +404,133 @@ visited with his disciples before ascending into heaven.
     > all thy soul, and with all thy mind.  This is the first and great
     > commandment.  And the second is like unto it, Thou shalt love thy neighbour
     > as thyself.  On these two commandments hang all the law and the prophets.
-  * Christmas 
+  * Christmas (*sans* Santa)
+  * John the Baptist
+  * 40 days in the desert
+  * Temptations of Christ
+  * Sermon on the Mount
+  * The Lord's Prayer
+  * Miraculous healings
+  * Calming the storm
+  * Casting out demons
+  * Raising the dead
+  * Twelve Disciples
+  * Pharisees
+  * Parables
+  * Multiplying loaves and fishes
+  * "Suffer little children"
+  * Rich men and camels
+  * The first shall be last and the last shall be first
+  * Woe unto you, lawyers and Pharisees
+  * The Last Supper
+  * Judas, betrayal
+  * Crucifixion
+  * Empty Tomb and resurrection
+
+
+* **Luke 10** (900 words)
+  * The Good Samaritan
+
+* **Luke 15** (700 words)
+  * The Prodigal Son
+
+* **Acts of the Apostles** (24,000 words)  Honestly, this book is the only part
+  of this list that might be better in a [Spark Notes version][sna]; it does get
+  tedious.  But it's also important for understanding Christianity.  This is the
+  story of the spread of Christianity from a small Jewish sect in a tiny Israeli
+  community to a widespread network across a fair swath of Mediterranean coast
+  and beyond, becoming less Jewish along the way.  Jesus's disciples and other
+  new followers are able to perform similar miracles to his, and their following
+  grows.  They are also often persecuted and sometimes killed.  The conversion
+  of Saul of Tarsus on the road to Damascus turns him into a zealous missionary
+  (now named Paul), and he becomes a major contributor the religion's spread.
+  * The Road to Damascus: This is a phrase you may run across.  It's associated
+    with sudden revelation and drastic turn-abouts.  Even if you only skim Acts
+    or read the spark notes, it's probably worth reading this story (Chapter 9)
+    in its entirety.
+
+
+#### Epistles ####
+
+The remainder of the New Testament, except for the last book, **Revelations**,
+consists of letters to existing Christian communities.  They are attributed to
+various of Jesus's disciples and later converts.  Paul, who we read about in
+Acts is responsible for many of them (traditionally thirteen, scholars say seven
+to ten.)  Read them if you want to understand a bit more about Christian ideas,
+but feel free to skip them otherwise.  The point of this document is mostly
+cultural references, and there are not many in these selections that you need to
+know for that.  The two passages that I think might be more familiar are noted.
+
+These letters are the oldest known Christian writing, dating between 50 and 100
+AD.  Christian theology is based on the teachings of Jesus, but it is worked out
+in much more detail in some of these letters.  We might say that Jesus was a Jew,
+and the first real "Christian" was Paul.  Where Jesus taught that doing the
+right thing was only the first step and you also had to be right in your heart
+and in your faith, Paul's message is chiefly that faith is all that's needed.
+Other letters disagree, notably James, and it's amidst such tensions that
+Christianity grew in its first two or three generations.
+
+* **Romans** (9,500 words): Righteousness comes only from God.  The importance
+  of faith.  Salvation.
+
+* **1 Corinthians** (9,400 words): Instructions on worship, sin, sexuality, righteousness.
+  * Chapter 13 is short and worth a read.  It will probably be quoted at half
+    the weddings you'll attend in your life.  If you're reading the King James
+    translation, substitute in "love" wherever you read "charity".
+
+* **Hebrews** (6,900 words): "Jesus is the bestest of the best, so cool!"
+
+* **James** (2,300 words): Temptation, sin, and wisdom.  Faith without works is
+  dead.  This seems in clear contrast to Paul's ideas, as seen in Romans and 1
+  Corinthians.
+
+* **1 John** (2,500 words): Obedience, love, eternal life
+  * 1 John 4:7-8 reads
+    > Beloved, let us love one another: for love is of God; and every one that
+    > loveth is born of God, and knoweth God. He that loveth not knoweth not
+    > God; for God is love.
+    
+    and this is a classic Christian idea, and a very popular quote.
+
+
+Summary
+-------
+
+I think I've done a reasonable job of my main goal: selecting passages which
+give you insight into Western cultural references that are widely used, but
+possibly mysterious to the two of you.  Having been raised without these
+associations is no major social handicap.  But understanding them may well turn
+out to be useful.
+
+A secondary goal was to give you some sense of the style, scope, and contents of
+the Bible, while including little of the tedium.  A part of me wants to fiddle
+with this as long as possible.  There are always things that might be worth
+changing.  I'm second-guessing myself on excluding Proverbs and Song of Solomon.
+I think maybe I included too much of the Saul and David stories.  And maybe I
+should get Daniel and the lions in there...  It will never be perfect, and the
+appropriate amount for Teddy may be too much for Kayleigh.  Or the varied
+literary forms which might amuse Kayleigh could just be an annoyance to Teddy.
+I'm hoping not.  But we can talk about it whenever, if you find you want a
+different reading list.
+
+
+You'll notice that these passages still total 193,000 words, or 163,000 if you
+skip the Epistles.  While those are large numbers, they're about the same length
+as Goblet of Fire and Half-Blood Prince, respectively.  This is an investment of
+time, but not an overwhelming one.  We also generally avoid the most tedious
+material -- of which the Bible contains plenty.
+
+So, enjoy!
+
+
+
+  [66b]: https://www.gotquestions.org/66-books-of-the-Bible.html
+  [bl]:  https://isbnsearch.org/isbn/9780061718670
+  [jcv]: https://www.youtube.com/watch?v=-gi3J8nPKPE
+  [kjb]: https://crosseye.github.io/TW5-Bibles/KingJames/
+  [rwv]: https://www.youtube.com/watch?v=xR0DKOGco_o
+  [sna]: https://crosseye.github.io/BibleLiteracy/
+  [tw]:  https://tiddlywiki.com
+  [twb]: https://crosseye.github.io/TW5-Bibles/
+  [ttt]: https://www.youtube.com/watch?v=xVOJla2vYx8
+  [web]: https://crosseye.github.io/TW5-Bibles/WorldEnglish/
