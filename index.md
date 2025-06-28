@@ -537,7 +537,12 @@ So, enjoy!
 
 <br/>
 
-<div style="display: block; text-align:center">Created by [Scott Sauyet][ss]; Version 1.0;  Public domain.</div>
+<small style="display: block; text-align:center">Created by [Scott Sauyet][ss]; Version 1.0;  Public domain.</small>
+
+<style>
+body {background-color: #e8ffe8; color: #333}
+.markdown-body {max-width: 45em;}
+</style>
 
 
   [66b]: https://www.gotquestions.org/66-books-of-the-Bible.html
