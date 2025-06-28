@@ -37,10 +37,11 @@ My list of suggestions is below, but first, an overview of the Bible.
 
 
 The Bible
----------
+=========
 
 
-### Bible Structure ###
+Bible Structure
+---------------
 
 The Bible is divided into *books*.  They vary in length, in style, in content.
 Some are full of stories and feel similar to Greek Mythology collections.  Some
@@ -104,7 +105,8 @@ novella.  But altogether, they are a far cry from 750,000!
 
 
 
-### Translations ###
+Translations
+------------
 
 There are many dozens, perhaps hundreds, of translations in English alone.
 
@@ -135,7 +137,8 @@ my site as you like; they download easily to any device with a web browser.  But
 there are also printed versions available in your households.
 
 
-### The Old Testament ###
+The Old Testament
+-----------------
 
 The first part of the Bible is Jewish scripture that was written between 1300
 BCE and 50 BCE.  This is commonly called the Old Testament, a name which,
@@ -145,7 +148,7 @@ you funny if you call it that.  By either name, this is the larger half of the
 Bible.  It consists of a few unofficial sections:
 
 
-#### The Law ####
+### The Law ###
 
 The first five books, Genesis, Exodus, Leviticus, Numbers, and Deutoronomy,
 cover the creation story, the initial generations of humanity, the foundation of
@@ -157,7 +160,7 @@ descendents of Abraham a land of their own, Israel.  These five books constitute
 one of the main components of Jewish scripture, called the *Torah*.
 
 
-#### History ####
+### History ###
 
 These books, from Joshua through Esther, discuss the subsequent history of
 the people of Israel (aka The Hebrews), living first under the rule of the
@@ -170,7 +173,7 @@ Eventually the territory splits into separate states of Israel and Judah, both
 containing the people of God, descendants of Abraham.
 
 
-#### Poetry and Wisdom ####
+### Poetry and Wisdom ###
 
 This slightly eclectic group includes Psalms, Proverbs, and Job, already
 described above, as well as Ecclesiastes, which to my mind has some of the best
@@ -179,7 +182,7 @@ long love poem, with some actual racy bits in it.  Lamentations, which is as sad
 as it sounds, is sometimes included in this list.
 
 
-#### The Prophets ####
+### The Prophets ###
 
 These books describe a series of preachers/prophets who try to bring the people
 of Israel and Judah back to following God, with varying degrees of success.  The
@@ -197,7 +200,8 @@ belly of a whale until he repents and is spit back out, and ends up preaching to
 and converting the people of that city.
 
 
-### The Apocrypha ###
+The Apocrypha
+-------------
 
 There is a collection of Bible books that in some versions are placed between
 the Old and New Testaments.  Catholic Bibles tend to include them, and
@@ -208,14 +212,15 @@ bother with them here.
 
 
 
-### The New Testament ###
+The New Testament
+-----------------
 
 Christianity started as an offshoot of Judaism.  The second half of the Bible is
 the story of the origins of Christianity as well of some of its theology.  Most
 of these books were written between 20 and 120 years after the death of Jesus.
 
 
-#### The Gospels ####
+### The Gospels ###
 
 The first four books of the New Testament are called the Gospels ("good news").
 They tell the story of the ministry of Jesus, a rabbi who wandered around
@@ -233,7 +238,7 @@ Rabbi, and as the savior of all people, not just the Jews.  John is much more
 theological and focuses on Jesus as being part of God.
 
 
-#### History ####
+### History ###
 
 The Acts of the Apostles is the story of the first generation of Jesus's
 followers after his death.  Some were among his twelve disciples; others
@@ -243,7 +248,7 @@ martyred for their faith.  An important story is the conversion to Christianity
 of one of their persecutors, a Roman named Saul of Tarsus, later known as Paul.
 
 
-#### Epistles ####
+### Epistles ###
 
 The Epistles are letters written from various early Christian figures,
 especially the important people from Acts, to Christian communities that had
@@ -253,7 +258,7 @@ Paul, and the theology he espouses becomes an important part of Christian
 thought from then on.  These books make up the majority of the New Testament.
 
 
-#### Prophecy ####
+### Prophecy ###
 
 The sole book here is Revelations.  This is a long prophecy about the end-time
 battle between the forces of God and the forces of the Anti-Christ, as well as
@@ -263,17 +268,18 @@ the signs that will precede it.
 
 
 The Reading List
-----------------
+================
 
 Here are suggested Books/Chapters to read.  These are annotated with some
 words or phrases that you might run across in other contexts.
 
-### Old Testament ###
+Old Testament
+-------------
 
 * **Genesis** (38,000 words):  This is the origin story... of everything.
   * The Garden of Eden
-  * Cain and Abel
   * Adam and Eve
+  * Cain and Abel
   * The Great Flood
   * Noah's Ark
   * The Tower of Babel
@@ -371,9 +377,10 @@ words or phrases that you might run across in other contexts.
     turn turn" addition, as [performed by The Byrds][ttt] 
 
 
-### New Testament ###
+New Testament
+-------------
 
-#### Gospels ####
+### Gospels ###
 Of the four gospels, I have a soft spot for the more raw **Mark**, myself, but
 **Matthew** and **Luke** are better intros.  I chose Matthew over Luke, simply
 because we will also discuss the book of Acts.  That is mostly a continuation of
@@ -434,6 +441,8 @@ visited with his disciples before ascending into heaven.
 * **Luke 15** (700 words)
   * The Prodigal Son
 
+### History ###
+
 * **Acts of the Apostles** (24,000 words)  Honestly, this book is the only part
   of this list that might be better in a [Spark Notes version][sna]; it does get
   tedious.  But it's also important for understanding Christianity.  This is the
@@ -450,7 +459,7 @@ visited with his disciples before ascending into heaven.
     in its entirety.
 
 
-#### Epistles ####
+### Epistles ###
 
 The remainder of the New Testament, except for the last book, **Revelations**,
 consists of letters to existing Christian communities.  They are attributed to
@@ -494,7 +503,7 @@ Christianity grew in its first two or three generations.
 
 
 Summary
--------
+=======
 
 I think I've done a reasonable job of my main goal: selecting passages which
 give you insight into Western cultural references that are widely used, but
@@ -528,7 +537,7 @@ So, enjoy!
 
 <br/>
 
-<small style="display: block; text-align:center">Created by [Scott Sauyet][ss]; Version 1.0;  Public domain.</small>
+<div style="display: block; text-align:center">Created by [Scott Sauyet][ss]; Version 1.0;  Public domain.</div>
 
 
   [66b]: https://www.gotquestions.org/66-books-of-the-Bible.html
