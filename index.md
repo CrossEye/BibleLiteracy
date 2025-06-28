@@ -272,8 +272,8 @@ words or phrases that you might run across in other contexts.
 
 * **Genesis** (38,000 words):  This is the origin story... of everything.
   * The Garden of Eden
-  * Cain and Abel
   * Adam and Eve
+  * Cain and Abel
   * The Great Flood
   * Noah's Ark
   * The Tower of Babel
