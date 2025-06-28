@@ -532,6 +532,24 @@ material -- of which the Bible contains plenty.
 
 So, enjoy!
 
+
+  [66b]: https://www.gotquestions.org/66-books-of-the-Bible.html
+  [bl]:  https://isbnsearch.org/isbn/9780061718670
+  [jcv]: https://www.youtube.com/watch?v=-gi3J8nPKPE
+  [kjb]: https://crosseye.github.io/TW5-Bibles/KingJames/
+  [rwv]: https://www.youtube.com/watch?v=xR0DKOGco_o
+  [sna]: https://crosseye.github.io/BibleLiteracy/
+  [ss]:  mailto:scott@sauyet.com
+  [tw]:  https://tiddlywiki.com
+  [twb]: https://crosseye.github.io/TW5-Bibles/
+  [ttt]: https://www.youtube.com/watch?v=xVOJla2vYx8
+  [web]: https://crosseye.github.io/TW5-Bibles/WorldEnglish/
+
+
+<!-- IGNORE EVERYTHING BELOW -->
+<!-- It's just technical information about how this is presented.  No content -->
+
+
 <br/><br/>
 
 ----------
@@ -546,15 +564,3 @@ body, .markdown-body blockquote {background-color: #f8f8f8;}
 .markdown-body {max-width: 45em;}
 </style>
 
-
-  [66b]: https://www.gotquestions.org/66-books-of-the-Bible.html
-  [bl]:  https://isbnsearch.org/isbn/9780061718670
-  [jcv]: https://www.youtube.com/watch?v=-gi3J8nPKPE
-  [kjb]: https://crosseye.github.io/TW5-Bibles/KingJames/
-  [rwv]: https://www.youtube.com/watch?v=xR0DKOGco_o
-  [sna]: https://crosseye.github.io/BibleLiteracy/
-  [ss]:  mailto:scott@sauyet.com
-  [tw]:  https://tiddlywiki.com
-  [twb]: https://crosseye.github.io/TW5-Bibles/
-  [ttt]: https://www.youtube.com/watch?v=xVOJla2vYx8
-  [web]: https://crosseye.github.io/TW5-Bibles/WorldEnglish/
