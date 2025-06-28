@@ -464,11 +464,12 @@ visited with his disciples before ascending into heaven.
 The remainder of the New Testament, except for the last book, **Revelations**,
 consists of letters to existing Christian communities.  They are attributed to
 various of Jesus's disciples and later converts.  Paul, who we read about in
-Acts is responsible for many of them (traditionally thirteen, scholars say seven
-to ten.)  Read them if you want to understand a bit more about Christian ideas,
-but feel free to skip them otherwise.  The point of this document is mostly
-cultural references, and there are not many in these selections that you need to
-know for that.  The two passages that I think might be more familiar are noted.
+Acts, is responsible for many of them (traditionally thirteen, scholars say
+seven to ten.)  Read them if you want to understand a bit more about Christian
+ideas, but feel free to skip them otherwise.  The point of this document is
+mostly cultural references, and there are not many in these selections that you
+need to know for that.  The two passages that I think might be more familiar are
+noted.
 
 These letters are the oldest known Christian writing, dating between 50 and 100
 AD.  Christian theology is based on the teachings of Jesus, but it is worked out
@@ -541,7 +542,7 @@ So, enjoy!
 
 <style>
 body {color: #333;}
-body, .markdown-body blockquote {background-color: #e8ffe8;}
+body, .markdown-body blockquote {background-color: #e8e8e8;}
 .markdown-body {max-width: 45em;}
 </style>
 
