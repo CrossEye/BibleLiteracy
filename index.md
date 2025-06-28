@@ -522,9 +522,13 @@ material -- of which the Bible contains plenty.
 
 So, enjoy!
 
-<br/><br/><hr/><br/>
+<br/><br/>
 
-<small style="display: block;text-align:center">Created by [Scott Sauyet][ss], version 1.0.  Public domain</small>
+----------
+
+<br/>
+
+<small style="display: block; text-align:center">Created by [Scott Sauyet][ss]; Version 1.0;  Public domain.</small>
 
 
   [66b]: https://www.gotquestions.org/66-books-of-the-Bible.html
