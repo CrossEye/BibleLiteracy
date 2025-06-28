@@ -318,11 +318,11 @@ Old Testament
     Leonard Cohen song, Hallelujah, at least in the [Rufus Wainwright
     version][rwv] used in the Shrek soundtrack or the [John Cale version][jcv]
     from the actual movie.  These lyrics refer to the story here:
-    > ```
-    > Your faith was strong but you needed proof
-    > You saw her bathing on the roof
+    
+    > Your faith was strong but you needed proof<br/>
+    > You saw her bathing on the roof<br/>
     > Her beauty and the moonlight overthrew you
-    > ```
+    
     The opening lines also refer to King David, and elsewhere in the song are
     references to the story of Samson
 
@@ -540,7 +540,8 @@ So, enjoy!
 <small style="display: block; text-align:center">Created by [Scott Sauyet][ss]; Version 1.0;  Public domain.</small>
 
 <style>
-body {background-color: #e8ffe8; color: #333}
+body {color: #333;}
+body, .markdown-body blockquote {background-color: #e8ffe8;}
 .markdown-body {max-width: 45em;}
 </style>
 
