@@ -162,10 +162,10 @@ one of the main components of Jewish scripture, called the *Torah*.
 
 ### History ###
 
-These books, from Joshua through Esther, discuss the subsequent history of
-the people of Israel (aka The Hebrews), living first under the rule of the
-tribes' judges and eventually consolidating under the King Saul.  When he loses
-favor with God, David becomes King, then his son Solomon after him.  David is a
+These books, from Joshua through Esther, discuss the subsequent history of the
+people of Israel (aka The Hebrews), living first under the rule of the tribes'
+judges and eventually consolidating under the King Saul.  When Saul loses favor
+with God, David becomes King, then his son Solomon after him.  David is a
 central figure in the Old Testament; he's credited with many of the Psalms and
 future kings are described by their lineage from David, including the New
 Testament's Jesus. Others list their *bona fides* as being a "child of David".
