@@ -48,7 +48,7 @@ Some are full of stories and feel similar to Greek Mythology collections.  Some
 give a history of sorts of the Jewish people.  Others are full of rules and
 admonitions.  Psalms is a collection of poems of praise for God; Proverbs, a
 collection of teachings   There are books full of prophecy.  The book of Job
-(rhymes with *lobe*) is entirely the story of the trials and tribulations -- and
+(rhymes with *robe*) is entirely the story of the trials and tribulations -- and
 eventual triumphs -- of a man subject to a bet between God and the devil about
 whether he'd forsake God if he loses everything he cherishes.  There are the
 four Gospels, which from various perspectives describe the life, death, and
