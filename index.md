@@ -464,7 +464,7 @@ visited with his disciples before ascending into heaven.
 The remainder of the New Testament, except for the last book, **Revelations**,
 consists of letters to existing Christian communities.  They are attributed to
 various of Jesus's disciples and later converts.  Paul, who we read about in
-Acts, is responsible for many of them (traditionally thirteen, scholars say
+**Acts**, is responsible for many of them (traditionally thirteen, scholars say
 seven to ten.)  Read them if you want to understand a bit more about Christian
 ideas, but feel free to skip them otherwise.  The point of this document is
 mostly cultural references, and there are not many in these selections that you
@@ -477,7 +477,7 @@ in much more detail in some of these letters.  We might say that Jesus was a Jew
 and the first real "Christian" was Paul.  Where Jesus taught that doing the
 right thing was only the first step and you also had to be right in your heart
 and in your faith, Paul's message is chiefly that faith is all that's needed.
-Other letters disagree, notably James, and it's amidst such tensions that
+Other letters disagree, notably **James**, and it's amidst such tensions that
 Christianity grew in its first two or three generations.
 
 * **Romans** (9,500 words): Righteousness comes only from God.  The importance
@@ -520,8 +520,8 @@ I think maybe I included too much of the Saul and David stories.  And maybe I
 should get Daniel and the lions in there...  It will never be perfect, and the
 appropriate amount for Teddy may be too much for Kayleigh.  Or the varied
 literary forms which might amuse Kayleigh could just be an annoyance to Teddy.
-I'm hoping not.  But we can talk about it whenever, if you find you want a
-different reading list.
+I'm hoping not.  But we can talk about it whenever you like if you find you want
+a different reading list.
 
 
 You'll notice that these passages still total 193,000 words, or 163,000 if you
