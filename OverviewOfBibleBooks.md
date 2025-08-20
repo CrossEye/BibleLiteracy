@@ -538,7 +538,7 @@ So, enjoy!
   [jcv]: https://www.youtube.com/watch?v=-gi3J8nPKPE
   [kjb]: https://crosseye.github.io/TW5-Bibles/KingJames/
   [rwv]: https://www.youtube.com/watch?v=xR0DKOGco_o
-  [sna]: https://crosseye.github.io/BibleLiteracy/
+  [sna]: hhttps://www.sparknotes.com/lit/newtestament/section5/
   [ss]:  mailto:scott@sauyet.com
   [tw]:  https://tiddlywiki.com
   [twb]: https://crosseye.github.io/TW5-Bibles/
