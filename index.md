@@ -47,7 +47,7 @@ The Bible is divided into *books*.  They vary in length, in style, in content.
 Some are full of stories and feel similar to Greek Mythology collections.  Some
 give a history of sorts of the Jewish people.  Others are full of rules and
 admonitions.  Psalms is a collection of poems of praise for God; Proverbs, a
-collection of teachings   There are books full of prophecy.  The book of Job
+collection of teachings.   There are books full of prophecy.  The book of Job
 (rhymes with *robe*) is entirely the story of the trials and tribulations -- and
 eventual triumphs -- of a man subject to a bet between God and the devil about
 whether he'd forsake God if he loses everything he cherishes.  There are the
@@ -142,7 +142,7 @@ The Old Testament
 
 The first part of the Bible is Jewish scripture that was written between 1300
 BCE and 50 BCE.  This is commonly called the Old Testament, a name which,
-although ubiquitous may sound insulting to Jewish ears.  While these days, you
+although ubiquitous, may sound insulting to Jewish ears.  While these days, you
 will often hear "The Hebrew Bible" instead, there are those who might look at
 you funny if you call it that.  By either name, this is the larger half of the
 Bible.  It consists of a few unofficial sections:
@@ -538,7 +538,7 @@ So, enjoy!
   [jcv]: https://www.youtube.com/watch?v=-gi3J8nPKPE
   [kjb]: https://crosseye.github.io/TW5-Bibles/KingJames/
   [rwv]: https://www.youtube.com/watch?v=xR0DKOGco_o
-  [sna]: https://crosseye.github.io/BibleLiteracy/
+  [sna]: https://www.sparknotes.com/lit/newtestament/section5/
   [ss]:  mailto:scott@sauyet.com
   [tw]:  https://tiddlywiki.com
   [twb]: https://crosseye.github.io/TW5-Bibles/
