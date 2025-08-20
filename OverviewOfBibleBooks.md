@@ -1,144 +1,546 @@
-Overview of Books of the Bible
-==============================
+Bible Basics
+============
 
-I found the following list at https://www.gotquestions.org/66-books-of-the-Bible.html, which is on a Biblical Q & A site, presumably run by faithful Christians.  But I found this to be non-preachy, accurate, and quite useful short summaries, especially for the Old Testament.  I've duplicated it here in case that page disappears.
+This is for Teddy and Kayleigh.  Mom and I raised you without any religion in
+your lives.  I don't regret that, except for one thing: you likely never learned
+many cultural references your peers take for granted.  I suspect that you
+nonetheless recognized some things: Adam and Eve, Noah's ark.  But there are
+others that probably fly past you: the Road to Damascus, cutting Samson's hair,
+David and Bathsheba.  And still others are most likely  familiar, terms you know
+and vaguely understand without the references: the Good Samaritan, the Prodigal
+Son.
 
+Teddy, you and I have talked about this a few times, and I said that I would try
+to give you a shortened reading list, some Biblical material that's interesting
+enough to read and not overwhelmingly full of tedium, theology, or
+proselytizing, enough to give you a feel for the material and fill in some of
+those cultural gaps.  I've spent a fair bit of time thinking about this, and
+this is the result.  Of course, it is merely one person's list.  But I think
+it's a good start.  Teddy, you might want to consult with Sarah for further
+suggestions.  In this document, I try very hard to maintain a neutral stance,
+not arguing for or against any particular interpretation of the Bible, nor even
+making a theism/atheism stand.  Even if I disagree with the text, I present it
+as straightforwardly as possible.
+
+I also ordered a book that you might want to read, which attempts to gather the
+most significant Biblical stories into a single place.  I'd like to read it
+myself, and then you're welcome to borrow it.  *[Biblical Literacy: The
+Essential Bible Stories Everyone Needs to Know][bl]*.
+
+Note that I am not trying to give the Cliff Notes version of the Bible.  While I
+hope this gives you some feel for the scope of the Bible, I am much more focused
+on those parts that will likely come up in everyday interactions.
+
+My list of suggestions is below, but first, an overview of the Bible.
+
+
+
+
+The Bible
+=========
+
+
+Bible Structure
+---------------
+
+The Bible is divided into *books*.  They vary in length, in style, in content.
+Some are full of stories and feel similar to Greek Mythology collections.  Some
+give a history of sorts of the Jewish people.  Others are full of rules and
+admonitions.  Psalms is a collection of poems of praise for God; Proverbs, a
+collection of teachings.  There are books full of prophecy.  The book of Job
+(rhymes with *robe*) is entirely the story of the trials and tribulations -- and
+eventual triumphs -- of a man subject to a bet between God and the devil about
+whether he'd forsake God if he loses everything he cherishes.  There are the
+four Gospels, which from various perspectives describe the life, death, and
+ministry of Jesus of Nazareth, who Christians believe to be the long-prophesied
+Messiah (aka Christ).  There is a book full of the activities of his disciples
+after his death.  Many books are letters of advice to early Christian
+congregations.  The final book, Revelations, is an extended prophecy about the
+end times that a sizable subset of Christians believe is coming.
+
+The Bible does not have a single author or present a single point of view. The
+New Testament contains books by various authors.  The Old Testament is more
+complex, where many books seem to have been pieced together from several
+distinct sources, sometimes artfully, sometimes not.  And sometimes the
+transitions are jarring.
+
+The books of the Bible are divided into chapters and chapters into verses.
+Citations almost always use these.  Verses are short, often single sentences.
+Chapters vary a bit more, but they act much like chapters in a novel; convenient
+places to break.  Chapters and verses are later additions to the text, not in
+the original sources.  Occasionally there are strange breaks where a complete
+thought is split across verses, or two bits of unrelated content are combined
+into one.  But mostly they are helpful.  A reference such as "1 John 4:7-8"
+refers to the book "1 John", its chapter 4, and the verses within that chapter
+numbered 7 and 8.  (A number of titles have multiple parts; these indices always
+precede the shared name; 1 John, 2 John, and 3 John are separate books, not to
+be confused with a book in a separate section, just called "John".)
+
+The bible contains over 750,000 words, longer than I novel I've ever read (and
+I've read War and Peace!)  But for comparison, the five books published in A
+Song of Ice and Fire so far (aka The Game of Thrones series) has well over twice
+that.  You've both read the Harry Potter series.  Those combine for more than a
+million words.  So reading the whole Bible is not impossible, but it's not
+nearly as easy as reading those works.  Those are simple narratives.  The bible
+is full of other, less pleasurable sections.  The first nine chapters of 1
+Chronicles, for instance, have a combined total of 7,000 words, that all read
+like this:
+
+> And Caleb the son of Hezron begat children of Azubah his wife, and of Jerioth:
+> her sons are these; Jesher, and Shobab, and Ardon. And when Azubah was dead,
+> Caleb took unto him Ephrath, which bare him Hur. And Hur begat Uri, and Uri
+> begat Bezaleel. And afterward Hezron went in to the daughter of Machir the
+> father of Gilead, whom he married when he was threescore years old; and she bare
+> him Segub. And Segub begat Jair, who had three and twenty cities in the land of
+> Gilead.
+
+So there are parts difficult to read.  And to me, most of these are devoid of
+interesting content.  If you want a very short synopsis of any of the books, I
+found a very [useful page][66b] that gives simple, short overviews of each of
+the books.  It might be worth reading.
+
+Do note that my own list below is not a small amount of reading.  The first book
+I recommend is Genesis, which at more than 38,000 words, is the length of a long
+novella.  But altogether, they are a far cry from 750,000!
+
+
+
+Translations
+------------
+
+There are many dozens, perhaps hundreds, of translations in English alone.
+
+By far the best known is The King James version (aka the Authorized Version).
+The language is old and dated, but for many English-speaking Christians, this is
+the definitive version.  It uses *thee*/*thou*/*thy*, and to a modern ear this
+might sound like more formal language; don't fall for that.  You've both studied
+French.  These have fallen out of usage in modern English, but when this
+translation was made, English still had the equivalent of *tutoiement* (when to
+use *tu*) and *vouvoiement* (when to use *vous*).  *Thou* and the like were the
+less formal, more personal words.
+
+When I was still a theist, I was a fan of The Revised Standard version, which
+was a scholarly version.  The New International Version was meant to be
+as easy to read as possible; it used to be the version of choice among
+evangelical Christians.  A more recent version is the World English Bible, which
+was designed to be a readable, modern version, not subject to copyright
+problems, and so easy to post on the Web.
+
+You know I've fiddled around with [TiddlyWiki][tw].  One of the projects I've
+worked on is to have simple online versions of some Bible translations.  It's
+still a work in progress, but there are four English and two Spanish
+translations [currently available][twb].  These include the [World English][web]
+and [King James][kjb] versions.  I would recommend that you choose one of these
+two translations.  King James is best known, and to many readers, the most
+poetic.  World English is simply easier to read.  Feel free to read content on
+my site as you like; they download easily to any device with a web browser.  But
+there are also printed versions available in your households.
+
+
+The Old Testament
+-----------------
+
+The first part of the Bible is Jewish scripture that was written between 1300
+BCE and 50 BCE.  This is commonly called the Old Testament, a name which,
+although ubiquitous may sound insulting to Jewish ears.  While these days, you
+will often hear "The Hebrew Bible" instead, there are those who might look at
+you funny if you call it that.  By either name, this is the larger half of the
+Bible.  It consists of a few unofficial sections:
+
+
+### The Law ###
+
+The first five books, Genesis, Exodus, Leviticus, Numbers, and Deutoronomy,
+cover the creation story, the initial generations of humanity, the foundation of
+God's chosen nation of Israel by the descendants  of Abraham, their years of
+exile and slavery in Egypt, their dramatic escape, and their forty years of
+wandering the wilderness.  It also includes the laws to govern the people, both
+the general Ten Commandments and many more specific rules.  God grants the
+descendents of Abraham a land of their own, Israel.  These five books constitute
+one of the main components of Jewish scripture, called the *Torah*.
+
+
+### History ###
+
+These books, from Joshua through Esther, discuss the subsequent history of the
+people of Israel (aka The Hebrews), living first under the rule of the tribes'
+judges and eventually consolidating under the King Saul.  When Saul loses favor
+with God, David becomes King, then his son Solomon after him.  David is a
+central figure in the Old Testament; he's credited with many of the Psalms and
+future kings are described by their lineage from David, including the New
+Testament's Jesus. Others list their *bona fides* as being a "child of David".
+Eventually the territory splits into separate states of Israel and Judah, both
+containing the people of God, descendants of Abraham.
+
+
+### Poetry and Wisdom ###
+
+This slightly eclectic group includes Psalms, Proverbs, and Job, already
+described above, as well as Ecclesiastes, which to my mind has some of the best
+poetry in the Bible, and The Song of Solomon (aka The Song of Songs), which is a
+long love poem, with some actual racy bits in it.  Lamentations, which is as sad
+as it sounds, is sometimes included in this list.
+
+
+### The Prophets ###
+
+These books describe a series of preachers/prophets who try to bring the people
+of Israel and Judah back to following God, with varying degrees of success.  The
+people are often swayed to worship the gods of the neighboring (or conquering)
+communities, and the prophets must work hard to convince them return to God
+(who is sometimes called by the name Yaweh or Jehova, and other times called
+Lord, Lord God, or other variants). Sometimes the prophets themselves are not
+particularly willing.  The books are often divided into Major and Minor
+Prophets, in part by the lengths of their texts.  The Majors are Isaiah,
+Jeremiah, Ezekial, and Daniel, and if Lamentations is not included the poetry
+section, it is included here, attributed to Jeremiah.  The other twelve are the
+Minors, including the short book of Jonah, which tells of a prophet fleeing from
+God's exhortation to go to a city and preach, who ends up overboard and in the
+belly of a whale until he repents and is spit back out, and ends up preaching to
+and converting the people of that city.
+
+
+The Apocrypha
+-------------
+
+There is a collection of Bible books that in some versions are placed between
+the Old and New Testaments.  Catholic Bibles tend to include them, and
+Protestant ones do not.  The Protestants removed them, saying that the original
+sources of these books were unclear, and that perhaps they were not divinely
+inspired.  While some of them are interesting in their own right, we will not
+bother with them here.
+
+
+
+The New Testament
+-----------------
+
+Christianity started as an offshoot of Judaism.  The second half of the Bible is
+the story of the origins of Christianity as well of some of its theology.  Most
+of these books were written between 20 and 120 years after the death of Jesus.
+
+
+### The Gospels ###
+
+The first four books of the New Testament are called the Gospels ("good news").
+They tell the story of the ministry of Jesus, a rabbi who wandered around
+teaching, healing, performing miracles, and preaching an unorthodox theology.
+Much of his teaching was in the form of morality tales called parables.  His
+theology riled up the more orthodox Jews and they in turn riled up their Roman
+overlords.  Together, they put Jesus on trial for heresy/rebellion, convicted,
+and executed him. According to these gospels, he rose from the dead on the third
+day and appeared to many of his disciples.  These four books are not sequential;
+they are different views on the same events.  Mark is the most raw, with
+significant narrative issues and a focus on secret knowledge.  Matthew is a more
+polished version of the same approach, with an emphasis on Jesus as the Jewish
+Messiah. Luke is more day-to-day, and focuses more on Jesus as a traditional
+Rabbi, and as the savior of all people, not just the Jews.  John is much more
+theological and focuses on Jesus as being part of God.
+
+
+### History ###
+
+The Acts of the Apostles is the story of the first generation of Jesus's
+followers after his death.  Some were among his twelve disciples; others
+converted after he was gone.  They wandered around preaching and also performing
+miracles.  They converted various people but were also persecuted and often
+martyred for their faith.  An important story is the conversion to Christianity
+of one of their persecutors, a Roman named Saul of Tarsus, later known as Paul.
+
+
+### Epistles ###
+
+The Epistles are letters written from various early Christian figures,
+especially the important people from Acts, to Christian communities that had
+been founded by the apostles.  They offer encouragement, theology, and practical
+advice.  They attempt to settle disputes.  Many of these letters are written by
+Paul, and the theology he espouses becomes an important part of Christian
+thought from then on.  These books make up the majority of the New Testament.
+
+
+### Prophecy ###
+
+The sole book here is Revelations.  This is a long prophecy about the end-time
+battle between the forces of God and the forces of the Anti-Christ, as well as
+the signs that will precede it.
+
+
+
+
+The Reading List
+================
+
+Here are suggested Books/Chapters to read.  These are annotated with some
+words or phrases that you might run across in other contexts.
 
 Old Testament
 -------------
 
-Genesis — God creates the universe and fashions humans in His own image and places them in a perfect environment. The humans rebel against God and lose their paradise. The rebellion gets so bad that God wipes out humanity with a flood, but He graciously preserves Noah and his family. Later, God chooses and blesses the family of Abraham, Isaac, and Jacob (or Israel) and promises them a land for their many descendants. Through this family God plans to bring a Savior to reconcile the sinful world to Himself.
+* **Genesis** (38,000 words):  This is the origin story... of everything.
+  * The Garden of Eden
+  * Adam and Eve
+  * Cain and Abel
+  * The Great Flood
+  * Noah's Ark
+  * The Tower of Babel
+  * Sodom and Gomorrah
+  * Lot
+  * Abraham
+  * Abraham and Isaac
+  * Joseph and the Pharaoh
 
-Exodus — The children of Israel, now living in Egypt, are forced into slavery. God prepares an Israelite named Moses to lead the people to freedom. The king is loath to let the slaves go, so God sends a series of plagues upon the Egyptians. Moses leads the Israelites through the Red Sea, which God miraculously parts for them, and to Mt. Sinai. Camped at Sinai, the Israelites receive the Law of God, including the Ten Commandments. The Law is the basis of a covenant between God and people He has rescued, with promised blessings for obedience. The people promise to uphold the covenant.
 
-Leviticus — In the Law, God establishes a sacrificial system to atone for sins and a series of festivals for Israel to observe as days of worship. God gives Moses plans for a tabernacle, a tent where the sacrifices can be offered and God will meet with His people. God specifies that the rituals and ceremonies of the tabernacle are to be overseen by the family of Aaron, Moses’ brother.
+* **Exodus** (33,000 words): The Israelites become slaves in Egypt.  Moses leads
+  them to freedom and to the edge of the Promised Land.
+  * Moses
+  * Plagues of Egypt
+  * Parting of the Red Sea
+  * The Ten Commandments
+  * Manna from heaven
+  * Forty years in the wilderness
 
-Numbers — The Israelites arrive at the border of Canaan, the land God had earlier promised to Abraham. But the people following Moses refuse to enter the land, due to their lack of faith and their fear of Canaan’s inhabitants. As a judgment, God consigns the Israelites to wandering in the wilderness for 40 years, until the unbelieving generation passes away and a new generation takes their place. God sustains His rebellious people with miraculous provisions throughout their time in the wilderness.
 
-Deuteronomy — The new generation of Israelites is now ready to take possession of the Promised Land. Moses gives a series of final speeches, in which he reiterates the Law of God and promises that one day God will send another Prophet reminiscent of the power and mission of Moses. Moses dies in Moab.
+* **Judges 13 - 16** (3,000 words): Samson
+  * Samson and the lion
+  * Samson and Delilah
 
-Joshua — Moses’ successor, Joshua, leads the children of Israel across the Jordan River (parted miraculously by God) and into Canaan. God overthrows the city of Jericho by knocking its walls down. Joshua leads the people in a successful campaign to conquer the whole of Canaan. With a few exceptions, the Israelites remain faithful to their promise to keep their covenant with God, and God blesses them with military victories. After the land is subdued, the Israelites divide Canaan into separate territories, giving each of the tribes of Israel a lasting inheritance.
 
-Judges — Joshua dies, and, almost immediately, the people begin to turn away from the God who had blessed them. Rather than driving out all the land’s inhabitants, they allow some of the Canaanites to survive, and the Israelites begin to worship the gods of the Canaanites. True to the terms of the covenant, God sends enemies to oppress His people. The suffering they endure causes them to repent, and God responds by sending leaders to rally the people and defeat the enemies, bringing peace to the land again. This cycle is repeated several times over a span of about 300 years.
+* **1 Samuel 9 - 24** (14,000 words): Uniting the tribes under a king.  Saul
+  falling into disfavor, battles between Saul and David.
+  * Saul
+  * David
+  * David and Goliath
 
-Ruth — During the time of the judges, a famine strikes the land, and a man of Bethlehem takes his family out of Israel to live in Moab. There, he and his two sons die. His widow, Naomi, returns to Israel along with one of her daughters-in-law, a Moabitess named Ruth. Back in Bethlehem, the two women face hardship, and Ruth gathers what food she can by gleaning in a barley field owned by a man named Boaz. Ruth is noticed by Boaz, and he gives her extra help. Since Boaz is related to Naomi’s late husband, he has the legal opportunity to redeem the family property and raise up an heir in the name of the deceased. Ruth asks Boaz to do just that, and Boaz agrees. He marries Ruth and purchases the property that had belonged to Naomi. Boaz and Ruth become the great-grandparents of Israel’s greatest king, David.
 
-1 Samuel — In answer to prayer, Samuel is born to a barren woman, who then dedicates her young son to the tabernacle. Samuel is raised by the judge and high priest, Eli. Early on, Samuel begins to receive messages from God and becomes known as a prophet. After Eli’s death, Samuel becomes Israel’s final judge. The people demand a king to make them more like other nations. Samuel advises against it, but the Lord directs Samuel to grant their request. Samuel anoints Saul as the first king. Saul starts out well, but he soon begins to act in pride and ignore God’s commands. God rejects Saul as king and instructs Samuel to anoint another person to take Saul’s place: that person is David, chosen while still a youth. David becomes famous in Israel for slaying the Philistine warrior Goliath, and Saul grows jealous to the point of madness. The king begins to pursue David, whose life is in constant danger as he takes refuge in the wilderness. Men loyal to David gather to him. Samuel dies, and, later, Saul and his sons are killed in a battle with the Philistines.
+* **2 Samuel 11 - 12** (2,000 words): David, the most famous king of the Hebrews
+  does an extremely dirty deed.
+  * David and Bathsheba.  You may not recognize the name, but you have heard the
+    Leonard Cohen song, Hallelujah, at least in the [Rufus Wainwright
+    version][rwv] used in the Shrek soundtrack or the [John Cale version][jcv]
+    from the actual movie.  These lyrics refer to the story here:
+    
+    > Your faith was strong but you needed proof<br/>
+    > You saw her bathing on the roof<br/>
+    > Her beauty and the moonlight overthrew you
+    
+    The opening lines also refer to King David, and elsewhere in the song are
+    references to the story of Samson
 
-2 Samuel — David is crowned king by his tribesmen in Judah, and they make the city of Hebron the capital of Judah. After a brief civil war, all the tribes of Israel unite under the leadership of David, God’s choice. The capital is moved to Jerusalem. God makes a promise to David that a son of his will rule on the throne forever. David seeks to follow God’s will, and God blesses David with victories over foreign enemies. Sadly, David falls into the sin of adultery and tries to cover his sin by having the woman’s husband killed. God pronounces judgment on David’s house, and trouble begins. David’s daughter is raped by her half-brother, who is then killed by Absalom, another of David’s sons, in revenge. Absalom then plots to overthrow David and take the throne. He gains a following, and David and those loyal to him are forced to flee Jerusalem. Absalom is eventually killed in battle, and David returns home in sorrow. Near the end of his life, David disobeys God and takes a census of the people, a sin for which God sends judgment on the nation.
 
-1 Kings — King David dies. His son Solomon takes the throne, but his brother Adonijah challenges him for it. After repeated attempts to usurp authority from his brother, Adonijah is executed. King Solomon is blessed by God with great wisdom, riches, and honor. He oversees the building of the temple in Jerusalem and dedicates it to the Lord in a grand ceremony. Later in life, Solomon forsakes the path of righteousness and serves other gods. After Solomon’s death, his son Rehoboam takes the throne, but his foolish choices lead to a civil war, and the nation is fractured in two. Rehoboam remains king of the southern kingdom, and a man named Jeroboam is crowned king of the ten tribes to the north. Both kings practice idolatry. Through the years, David’s dynasty in the southern kingdom occasionally produces a godly king; most of the kings are wicked, however. The northern kingdom is led by an unbroken series of wicked rulers, including the idolatrous Ahab and his wife Jezebel, during whose reign God sends a drought to punish Israel, along with a mighty prophet, Elijah, to point the people back to God.
+* **1 Kings 1 - 9** (10,000 words): Solomon, the building of the temple
+  * Solomon
+  * Splitting the baby
+  * Building of the temple
 
-2 Kings — Elijah is translated to heaven, and Elisha takes his place as God’s prophet in Israel. Jehu becomes Israel’s king and wipes out the wicked family line of Ahab. In Judah, Ahab’s daughter becomes queen and attempts to kill all of David’s heirs, but she fails. Wicked kings rule in both nations, with the exception, in Judah, of a few reformers such as Hezekiah and Josiah. Israel’s persistent idolatry finally exhausts God’s patience, and He brings the Assyrians against them to conquer the people of Israel. Later, God brings the Babylonians against Judah as a judgment, and Jerusalem is destroyed.
 
-1 Chronicles — A genealogy traces God’s people from Adam to the kingdom years, with a focus on David’s family. The rest of the book covers much of the same material as 1 and 2 Samuel, with an emphasis on the life of David.
+* **2 Kings 1 - 2** (1,500 words): Elijah and Elisha, passing the torch, typical
+  important prophets
+  * Elijah, chariot of fire
+  * Elisha
 
-2 Chronicles — This book covers much the same material as 1 and 2 Kings, with an emphasis on David’s dynasty in Judah. The book begins with the construction of the temple under Solomon, and it ends with the destruction of the temple by the Babylonians, with a proclamation, in the last few verses, that the temple would be rebuilt.
 
-Ezra — After 70 years of captivity in a foreign land, the people of Judah are allowed to return to their homeland to rebuild. A descendant of David named Zerubbabel, together with some priests, begins to rebuild the temple. Political opposition to the rebuilding forces a halt in construction for about 15 years. But then the work continues, encouraged by two prophets, Haggai and Zechariah. About 57 years after the temple is completed, Ezra the scribe arrives in Jerusalem, bringing with him about 2,000 people, including priests and Levites to serve in the temple. Ezra finds that the people living in Judah have lapsed into sin, and he calls the people to repentance and a return to the law of God.
+* **Jonah** (1,300 words): Jonah, typical(ish) minor prophet
+  * Jonah and the whale
 
-Nehemiah — About 14 years after Ezra’s arrival in Jerusalem, Nehemiah, the king’s cupbearer in Persia, learns that the walls of Jerusalem are in a state of disrepair. Nehemiah travels to Jerusalem and oversees the construction of the city walls. He is opposed by enemies of the Jews, who try to thwart the work with various tactics, but the wall is finished with God’s blessings in time to observe the Feast of Tabernacles. Ezra reads the book of the law publicly, and the people of Judah rededicate themselves to following it. The book of Nehemiah begins with sadness and ends with singing and celebration.
 
-Esther — Some exiled Jews have opted not to return to Jerusalem and have stayed in Persia instead. Xerxes, the king of Persia, chooses as his new queen a young woman named Esther. Esther is a Jewess, but she keeps her ethnicity secret at the behest of her cousin Mordecai, who has raised her. A high-ranking official in the kingdom, a man named Haman, plots a genocide against all the Jews in the kingdom, and he receives the king’s permission to carry out his plan—neither he nor the king knowing that the queen is Jewish. Through a series of divinely directed, perfectly timed events, Haman is killed, Mordecai is honored, and the Jews are spared, with Queen Esther being instrumental in it all.
+* **Psalms** (total of 4,000 words in these selections): It's probably worth
+  reading more than the seven listed here, but a scattershot approach would be
+  fine; skip around and read a few others.  Too many at once does get to feel
+  very repetitive, though.  I don't have a list of personal favorites, and only
+  the first one clearly *had* to be included.  For the others, I just found a
+  few best-of lists online and included those which appeared in a majority of
+  those lists' top ten, except the last one, which I added for the reason listed
+  with it.
+  * **Psalm 23**: This is by *far* the best-known Psalm.  You may well recognize
+    the opening lines, or even the whole thing.  The concept of the "good shepherd" 
+    appears many places in the Bible, but this is an important one.
+  * **Psalm 1**
+  * **Psalm 37**
+  * **Psalm 46**
+  * **Psalm 119**: This is the only Psalm with a significant internal structure;
+    it feels almost like epic poetry.  It's also 50% longer than all the others
+    on this list combined.
+  * **Psalm 139**
+  * **Psalm 137**: I include this one *because* of its contradictions.  There
+    are all sorts of passages in the Old Testament.  This is a microcosm of the
+    whole thing.  The first four verses are among the most beautiful, haunting,
+    poetic lines in the entire Bible.  The next three verses are *meh*.  But the
+    last two verses are cruel, xenoophobic calls for infanticide.  Quite the
+    variety for one short poem.
 
-Job — A righteous man named Job suffers a series of terrible tragedies that take away his wealth, his family, and his health. Even after losing everything, Job does not curse God. Three friends come to commiserate with Job, but they eventually speak their minds about the situation, advancing the notion that God is punishing Job for some secret sin. Job denies any sinfulness on his part, yet in his pain he cries out to God for answers—he trusts God, but he also wants God to explain Himself. In the end, God shows up and overwhelms Job with His majesty, wisdom, and power. God restores Job’s fortune, health, and family, but the answer to why Job had suffered God never answers.
 
-Psalms — This collection of songs includes praise to the Lord, cries of the needy, worshipful adoration, laments, thanksgiving, prophecy, and the full spectrum of human emotion. Some of the songs were written for specific occasions, such as traveling to the temple or crowning a new king.
-
-Proverbs — A collection of moral teachings and general observances about life, this book is directed to those in search of wisdom. Subjects include love, sex, marriage, money, work, children, anger, strife, thoughts, and words.
-
-Ecclesiastes — A wise older man who calls himself the Preacher philosophizes about life, looking back over what he has learned from his experiences. The Preacher, having lived apart from God, recounts the futility of various dead-end paths. Nothing in this world satisfies: riches, pleasure, knowledge, or work. Without God in the equation, all is vanity.
-
-Song of Solomon — A king and a humble maiden express love and devotion to each other through their courtship, leading to a joyous and affirming consummation of the marriage on the wedding night. The song continues to depict some of the difficulties faced by the bridegroom and his bride in their married life, always coming back to the yearning the lovers have for each other and the undying strength of love.
-
-Isaiah — Isaiah is called as a prophet in Judah and brings God’s messages to several kings. God proclaims judgment against Judah for their religious hypocrisy. The prophet then delivers messages of warning to other nations, including Assyria, Babylon, Moab, Syria, and Ethiopia. For all of God’s anger against His people in Judah, He miraculously saves Jerusalem from an attack by the Assyrians. Isaiah predicts the fall of Judah at the hands of Babylon, but he also promises a restoration to their land. Isaiah looks even farther ahead to the promised Messiah, who will be born of a virgin, be rejected by His people, and be killed in the process of bearing their iniquities—yet the Messiah, God’s righteous Servant, will also rule the world from Jerusalem in a kingdom of peace and prosperity.
-
-Jeremiah — Jeremiah, living during the time of the Babylonian invasion of Judah, prophesies Babylon’s victory over Judah, a message that brings him much grief from the proud kings and false prophets in Jerusalem. Continually calling God’s people to repent, Jeremiah is regularly ignored and even persecuted. Through Jeremiah, God promises that He will one day establish a new covenant with Israel. The prophet lives to see the fall of Jerusalem and predicts that the people’s captivity in Babylon will last 70 years.
-
-Lamentations — In a long acrostic poem, Jeremiah weeps over the destruction of the land of Judah. The reproach and shame of God’s people is overwhelming, and all seems lost. Yet God is just in His discipline, and He is merciful in not destroying the rebellious nation completely; God’s people will yet see God’s compassion.
-
-Ezekiel — This is a book of prophecies written in Babylon by Ezekiel, a priest-turned-prophet. Ezekiel deals with the cause of God’s judgment against Judah, which is idolatry and the dishonor Judah had brought upon God’s name. Ezekiel also writes of judgment against other nations, such as Edom, Ammon, Egypt, and Philistia, and against the city of Tyre. Ezekiel then promises a miraculous restoration of God’s people to their land, the reconstruction of the temple, and God’s rule over all the nations of the earth.
-
-Daniel — As a young man, Daniel is taken captive to Babylon, but he and three friends remain steadfast to the Lord’s commands, and God blesses them with honor and high rank in the Babylonian Empire. They have enemies, though: Daniel’s three friends are thrown into a fiery furnace, and Daniel into a den of lions, but God preserves their lives in each case and bestows even more honor upon them. Daniel survives the overthrow of Babylon and continues prophesying into the time of the Persian Empire. Daniel’s prophecies are far-reaching, accurately predicting the rise and fall of many nations and the coming rule of God’s chosen king, the Messiah.
-
-Hosea — Hosea’s mission is to call Israel to repentance, as God is poised to judge them for their corruption and idolatry. At God’s command, Hosea marries a wife who is unfaithful to him, and then he must redeem her from prostitution. This sordid experience is an illustration of Israel’s spiritual adultery and the fact that a loving God is still pursuing them to redeem them and restore them to their proper place.
-
-Joel — Joel ministers in Judah during a time of drought and a locust plague, events that are signs of God’s judgment on the nation. Joel uses the current judgment to point the people to the future, worldwide judgment of the Day of the Lord, and he calls on everyone to repent. Joel’s final promise is that the Lord will dwell with His people in Zion and bring great blessing to the restored land.
-
-Amos — Amos begins with pronouncing judgment against Damascus, Tyre, Edom, and Gaza, among other places. The prophet travels north from Judah to Israel to warn that nation of God’s judgment. He lists their sins and extends God’s invitation to repent and be forgiven. After the destruction of Israel, God promises, there will be a time of restoration.
-
-Obadiah — From their seemingly secure, rock-bound homes, the Edomites had rejoiced at Judah’s fall, but Obadiah brings God’s sobering message: Edom, too, will be conquered, and that without remedy. God’s people will be the ultimate victors.
-
-Jonah — Jonah, a prophet in Israel, is instructed by God to go to the Assyrian capital of Nineveh to prophesy against it. Jonah disobeys, attempting to travel away from Nineveh, but God intercepts him at sea. Jonah is thrown overboard and swallowed by a great fish. In the belly of the fish, Jonah repents, and the fish spits him back on dry ground. When Jonah prophesies in Nineveh, the Assyrians humble themselves before God and repent, and God does not bring judgment upon them. Jonah is angry that God has forgiven the people he hates, and God reasons with his obstinate prophet.
-
-Micah — In a series of three messages, Micah calls on both Judah and Israel to hear the word of God. He prophesies of coming judgment on both kingdoms and foresees the blessed kingdom of God, ruled by a king who would be born in Bethlehem. Micah ends his book with a promise that God’s anger will turn and that God’s people will be restored.
-
-Nahum — Nahum’s prophecy concerns the destruction of Nineveh. Nahum gives the reasons for it and promises God’s judgment on this nation that had once terrorized the rest of the world. Unlike God’s judgment against Israel, the judgment against Nineveh will have no respite, and the destruction will not be followed by restoration.
-
-Habakkuk — The prophet questions God about something he cannot understand: namely, how God can use the wicked Babylonians to punish God’s own people, Judah. The Lord answers by reminding Habakkuk of His sovereignty and faithfulness and that, in this world, the just will live by faith.
-
-Zephaniah — Zephaniah warns of the coming Day of the Lord, a prophecy fulfilled, in part, by the invasion of Babylon and, more remotely, at the end of time. Other nations besides Judah are also warned of coming judgment, including Philistia, Moab, Cush, and Assyria. Jerusalem is called to repent, and the book ends with a promise from God to restore His people to favor and glory.
-
-Haggai — Haggai lives and preaches during the time of Zerubbabel and Zechariah. The reconstruction of the temple had begun, but opposition from the Jews’ enemies has halted the work for about 15 years. Haggai preaches a series of four sermons to spur the people back to work so that the temple can be completed.
-
-Zechariah — A contemporary of Haggai and Zerubbabel, Zechariah encourages the people of Jerusalem to finish the reconstruction of the temple, a work that has languished for about 15 years. Eight visions relate God’s continuing plan for His people. Judgment on Israel’s enemies is promised, along with God’s blessings on His chosen people. Several messianic prophecies are included, predicting the Messiah’s coming, His suffering, and His eventual conquering glory.
-
-Malachi — Ministering to post-exilic Israel, Malachi calls God’s people to repentance. The prophet condemns the sins of divorce, bringing impure sacrifices, withholding tithes, and profaning God’s name. The book, and the Old Testament, ends with a description of the Day of the Lord and the promise that Elijah will come before that dreadful day.
+* **Ecclesiastes** (6,000 words): Feel free to skim but do read Chapter 1 and
+  Chapter 3:1-10.  This is to my mind the most poetic book in the bible, more so
+  than Psalms, Song of Solomon, or Lamentations.
+  * Nothing new under the sun
+  * More lyrics you'll recognize, so long as you include Pete Seeger's "Turn,
+    turn turn" addition, as [performed by The Byrds][ttt] 
 
 
 New Testament
 -------------
 
-Matthew — The ministry of Jesus Christ is presented from the point of view that Jesus is the Son of David and thus the rightful king to rule from Israel’s throne. Jesus offers the kingdom to His people, but Israel rejects Him as their king and crucifies Him. Jesus rises again and sends His disciples into all the world to proclaim His teaching.
+### Gospels ###
+Of the four gospels, I have a soft spot for the more raw **Mark**, myself, but
+**Matthew** and **Luke** are better intros.  I chose Matthew over Luke, simply
+because we will also discuss the book of Acts.  That is mostly a continuation of
+Luke, and so we'll see his style elsewhere.  But two chapters from Luke are also
+listed below because of well-known references not covered in Matthew.  **John**
+is much more theological, and interesting mostly to believers.  Matthew, Mark,
+and Luke overlap a great deal, and most scholars believe that Matthew and Luke
+were partially based on Mark.  Matthew is most focused on Jesus as a Jew, and
+the fulfillment of Jewish prophecies.  Luke is a bit more journalistic, more
+globally focused; it reads a bit like I imagine a celebrity biography might
+read.  
 
-Mark — The ministry of Jesus Christ is presented from the point of view that Jesus is the Righteous Servant of God. Jesus obeys the Father’s will and accomplishes all He had been sent to do, including dying for sinners and rising again from the dead.
+Each of these books tells the story of Jesus, the son of a carpenter from
+Nazareth, who became an itinerant rabbi.  He gathered together a number of
+followers, most prominently the Twelve Apostles.  He wandered the Jewish lands,
+healing the sick and performing other miracles, preaching a view that placed
+love above the law.  To most Christians, he was the prophecied Messiah, God's
+literal presence on Earth.  Jesus taught often in morality tales known as
+parables.  A number of these will be familiar.  Jesus is tried for heresy and
+rebellion and executed.  But according to these gospels he rose again and
+visited with his disciples before ascending into heaven.
 
-Luke — The ministry of Jesus Christ is presented from the point of view that Jesus is the Son of Man who came to save the whole world. Jesus shows the love of God to all classes of people, regardless of race or gender. He is unjustly betrayed, arrested, and murdered, but He rises again.
+* **Matthew** (24,000 words): There is much here, but the philosophy of Jesus
+  may best be described by Matthew 22:35-40: 
+    > Then one of them, which was a lawyer, asked him a question, tempting him,
+    > and saying, Master, which is the great commandment in the law?  Jesus said
+    > unto him, Thou shalt love the Lord thy God with all thy heart, and with
+    > all thy soul, and with all thy mind.  This is the first and great
+    > commandment.  And the second is like unto it, Thou shalt love thy neighbour
+    > as thyself.  On these two commandments hang all the law and the prophets.
+  * Christmas (*sans* Santa)
+  * John the Baptist
+  * 40 days in the desert
+  * Temptations of Christ
+  * Sermon on the Mount
+  * The Lord's Prayer
+  * Miraculous healings
+  * Calming the storm
+  * Casting out demons
+  * Raising the dead
+  * Twelve Disciples
+  * Pharisees
+  * Parables
+  * Multiplying loaves and fishes
+  * "Suffer little children"
+  * Rich men and camels
+  * The first shall be last and the last shall be first
+  * Woe unto you, lawyers and Pharisees
+  * The Last Supper
+  * Judas, betrayal
+  * Crucifixion
+  * Empty Tomb and resurrection
 
-John — The ministry of Jesus Christ is presented from the point of view that Jesus is the Son of God. Jesus speaks at length of His nature and work and the necessity of faith, and He proves that He is the Son of God through a series of public miracles. He is crucified and rises again.
 
-Acts — This sequel to the life of Christ follows the ministry of the apostles following Jesus’ ascension. The Holy Spirit arrives to fill and empower Jesus’ followers, who begin to preach the gospel in the midst of mounting persecution. Paul, a former enemy of the Christians, is converted and called by Christ as an apostle. The church begins in Jerusalem, expands to Samaria, and spreads to the Roman world.
+* **Luke 10** (900 words)
+  * The Good Samaritan
 
-Romans — This theological treatise, written by Paul on one of his missionary journeys, examines the righteousness of God and how God can declare guilty sinners to be righteous based on the sacrifice of Jesus Christ. Having been justified by faith, believers live in holiness before the world.
+* **Luke 15** (700 words)
+  * The Prodigal Son
 
-1 Corinthians — The church in Corinth is riddled with problems, and the apostle Paul writes to give them God’s instructions on how to deal with various issues, including sin and division in the church, marriage, idolatry, spiritual gifts, the future resurrection, and the conduct of public worship.
+### History ###
 
-2 Corinthians — The problems in the church in Corinth have for the most part been worked through, and Paul writes this letter to encourage them, to explain the love gift he is collecting for Judean Christians, and to defend his apostleship against critics who are speaking out against him.
+* **Acts of the Apostles** (24,000 words)  Honestly, this book is the only part
+  of this list that might be better in a [Spark Notes version][sna]; it does get
+  tedious.  But it's also important for understanding Christianity.  This is the
+  story of the spread of Christianity from a small Jewish sect in a tiny Israeli
+  community to a widespread network across a fair swath of Mediterranean coast
+  and beyond, becoming less Jewish along the way.  Jesus's disciples and other
+  new followers are able to perform similar miracles to his, and their following
+  grows.  They are also often persecuted and sometimes killed.  The conversion
+  of Saul of Tarsus on the road to Damascus turns him into a zealous missionary
+  (now named Paul), and he becomes a major contributor the religion's spread.
+  * The Road to Damascus: This is a phrase you may run across.  It's associated
+    with sudden revelation and drastic turn-abouts.  Even if you only skim Acts
+    or read the spark notes, it's probably worth reading this story (Chapter 9)
+    in its entirety.
 
-Galatians — False teachers have infiltrated the churches in Galatia, falsely suggesting that works of the law (specifically circumcision) must be added to faith in Christ in order for salvation to be real. In no uncertain terms, Paul condemns the mixture of law and grace, showing that salvation and sanctification are all of grace. Christ’s salvation has set us free. We rely on the Spirit’s work, not our own.
 
-Ephesians — Salvation comes by grace through faith in Christ, and not by our own works. The life Jesus gives, to Jew and Gentile alike, results in a new heart and a new walk in this world. The church is the Body of Christ, and marriage is a picture of Christ and the church. God has provided spiritual armor to wage spiritual battle.
+### Epistles ###
 
-Philippians — Writing this letter from a Roman prison, Paul thanks the church in Philippi for the love gift they had sent him. The gospel of Christ is advancing in the world, despite hardship, and Christians can rejoice in that. We are urged to humble ourselves as Christ did, be unified, and press toward the goal of pleasing the Lord in all things.
+The remainder of the New Testament, except for the last book, **Revelations**,
+consists of letters to existing Christian communities.  They are attributed to
+various of Jesus's disciples and later converts.  Paul, who we read about in
+**Acts**, is responsible for many of them (traditionally thirteen, scholars say
+seven to ten.)  Read them if you want to understand a bit more about Christian
+ideas, but feel free to skip them otherwise.  The point of this document is
+mostly cultural references, and there are not many in these selections that you
+need to know for that.  The two passages that I think might be more familiar are
+noted.
 
-Colossians — Despite what false teachers might claim, Jesus Christ is the Savior, Lord, and Creator of all things. In Him, all believers are made alive and complete; they need not submit themselves to manmade regulations or the mandates of the Old Testament law. The new life we have in Christ will affect our relationships with spouses, parents, children, masters, and servants.
+These letters are the oldest known Christian writing, dating between 50 and 100
+AD.  Christian theology is based on the teachings of Jesus, but it is worked out
+in much more detail in some of these letters.  We might say that Jesus was a Jew,
+and the first real "Christian" was Paul.  Where Jesus taught that doing the
+right thing was only the first step and you also had to be right in your heart
+and in your faith, Paul's message is chiefly that faith is all that's needed.
+Other letters disagree, notably **James**, and it's amidst such tensions that
+Christianity grew in its first two or three generations.
 
-1 Thessalonians — Paul reviews the start of the church in Thessalonica, and he commends them for their steadfast faith. Believers are encouraged to live pure lives and to maintain the hope that Jesus will return. When Christ comes again, He will resurrect believers who have died and will rapture those still living to be with Him forever. The Day of the Lord is coming, which will result in the judgment of this world.
+* **Romans** (9,500 words): Righteousness comes only from God.  The importance
+  of faith.  Salvation.
 
-2 Thessalonians — The church of Thessalonica is enduring persecution, and some believers wonder if the Day of the Lord had already arrived. Paul assures them that what they are experiencing is not God’s judgment. Before that terrible day comes, there must be a worldwide rebellion, a removal of the Restrainer, and the rise to power of the man of lawlessness. But God will protect His children. Until the time that Christ returns, keep doing what is right.
+* **1 Corinthians** (9,400 words): Instructions on worship, sin, sexuality, righteousness.
+  * Chapter 13 is short and worth a read.  It will probably be quoted at half
+    the weddings you'll attend in your life.  If you're reading the King James
+    translation, substitute in "love" wherever you read "charity".
 
-1 Timothy — Timothy, the pastor of the church in Ephesus, is the recipient of this letter from Paul. A pastor must be qualified spiritually, be on guard against false doctrine, pray, care for those in the church, train other leaders, and above all faithfully preach the truth.
+* **Hebrews** (6,900 words): "Jesus is the bestest of the best, so cool!"
 
-2 Timothy — In this very personal letter at the end of his life, Paul encourages Timothy to hold fast to the faith, focus on what is truly important, persevere in dangerous times, and preach the Word of God.
+* **James** (2,300 words): Temptation, sin, and wisdom.  Faith without works is
+  dead.  This seems in clear contrast to Paul's ideas, as seen in Romans and 1
+  Corinthians.
 
-Titus — Titus, an overseer of churches on the island of Crete, has the job of appointing elders in the churches there, making sure the men are qualified spiritually. He must beware of false teachers, avoid distractions, model the Christian life, and enjoin all believers to practice good works.
+* **1 John** (2,500 words): Obedience, love, eternal life
+  * 1 John 4:7-8 reads
+    > Beloved, let us love one another: for love is of God; and every one that
+    > loveth is born of God, and knoweth God. He that loveth not knoweth not
+    > God; for God is love.
+    
+    and this is a classic Christian idea, and a very popular quote.
 
-Philemon — In this short letter to Philemon, a believer in Colossae, the apostle Paul urges him to show the love of Christ and be reconciled to a runaway, thieving slave. Under Roman law, the slave could face severe punishment, but Paul urges grace for the sake of Christ. Philemon should welcome his slave back into the household, not as a slave now but as a beloved brother in Christ.
 
-Hebrews — There are Jewish members of the church who are tempted to return to the Jewish law. The author of this epistle urges them not to look back but to move on to full spiritual maturity, by faith. Jesus Christ is better than angels and better than Moses, and He has provided a better sacrifice, a better priesthood, and a better covenant than anything in the Old Testament. Having left Egypt, we must enter the Promised Land, not continue to wander aimlessly in the wilderness.
+Summary
+=======
 
-James — In this very practical book, James shows what faith lived out looks like. True, saving faith will affect our prayer life, our words, our response to trials, and our treatment of others.
+I think I've done a reasonable job of my main goal: selecting passages which
+give you insight into Western cultural references that are widely used, but
+possibly mysterious to the two of you.  Having been raised without these
+associations is no major social handicap.  But understanding them may well turn
+out to be useful.
 
-1 Peter — The apostle Peter writes to believers under persecution in Asia Minor, addressing them as “God’s elect, exiles scattered” (1 Peter 1:1). He reminds them of the grace of God, assures them of their heavenly home, teaches them to exhibit holiness, instructs them on marital relations, and encourages them as they face suffering.
+A secondary goal was to give you some sense of the style, scope, and contents of
+the Bible, while including little of the tedium.  A part of me wants to fiddle
+with this as long as possible.  There are always things that might be worth
+changing.  I'm second-guessing myself on excluding Proverbs and Song of Solomon.
+I think maybe I included too much of the Saul and David stories.  And maybe I
+should get Daniel and the lions in there...  It will never be perfect, and the
+appropriate amount for Teddy may be too much for Kayleigh.  Or the varied
+literary forms which might amuse Kayleigh could just be an annoyance to Teddy.
+I'm hoping not.  But we can talk about it whenever you like if you find you want
+a different reading list.
 
-2 Peter — With his death impending, Peter writes the churches, exhorting them to follow the Word of God, identify and avoid false teachers, and live in holiness as they await the second coming of Christ.
 
-1 John — God is light, love, and truth. Those who truly belong to Christ will seek fellowship with His redeemed; walk in the light, not in darkness; confess sin; obey God’s Word; love God; experience a decreasing pattern of sin in their lives; demonstrate love for other Christians; and experience victory in their Christian walk.
+You'll notice that these passages still total 193,000 words, or 163,000 if you
+skip the Epistles.  While those are large numbers, they're about the same length
+as Goblet of Fire and Half-Blood Prince, respectively.  This is an investment of
+time, but not an overwhelming one.  We also generally avoid the most tedious
+material -- of which the Bible contains plenty.
 
-2 John — The Christian life is a balance of truth and love. We cannot forsake truth in the name of love; neither can we cease loving because of a misdirected notion of upholding the truth.
+So, enjoy!
 
-3 John — Two men are contrasted: Gaius, who shows his commitment to truth and love through hospitality; and Diotrephes, who shows his malice and pride through a lack of hospitality.
 
-Jude — The message of the gospel will not change. But there are men who attempt to pervert the message and teach false doctrines to benefit themselves and lead people astray. These men must be resisted in the truth.
-
-Revelation — Jesus is the Lord of the church, and He knows the condition of each local body of believers. The end times will be marked by an increase in wickedness, the rise of the Antichrist’s one-world government, and the fury of Satan against God’s people on earth. God pours out His wrath on a rebellious and unrepentant world in a series of judgments that steadily increase in severity. Finally, the Lamb of God returns to earth with the armies of heaven, defeating the forces of evil arrayed against Him and setting up His kingdom of peace. Satan, the Antichrist, and the wicked of every age are thrown into the lake of fire, while the followers of Christ inherit a new heaven and new earth.
+  [66b]: https://www.gotquestions.org/66-books-of-the-Bible.html
+  [bl]:  https://isbnsearch.org/isbn/9780061718670
+  [jcv]: https://www.youtube.com/watch?v=-gi3J8nPKPE
+  [kjb]: https://crosseye.github.io/TW5-Bibles/KingJames/
+  [rwv]: https://www.youtube.com/watch?v=xR0DKOGco_o
+  [sna]: https://crosseye.github.io/BibleLiteracy/
+  [ss]:  mailto:scott@sauyet.com
+  [tw]:  https://tiddlywiki.com
+  [twb]: https://crosseye.github.io/TW5-Bibles/
+  [ttt]: https://www.youtube.com/watch?v=xVOJla2vYx8
+  [web]: https://crosseye.github.io/TW5-Bibles/WorldEnglish/
