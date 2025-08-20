@@ -142,7 +142,7 @@ The Old Testament
 
 The first part of the Bible is Jewish scripture that was written between 1300
 BCE and 50 BCE.  This is commonly called the Old Testament, a name which,
-although ubiquitous may sound insulting to Jewish ears.  While these days, you
+although ubiquitous, may sound insulting to Jewish ears.  While these days, you
 will often hear "The Hebrew Bible" instead, there are those who might look at
 you funny if you call it that.  By either name, this is the larger half of the
 Bible.  It consists of a few unofficial sections:
